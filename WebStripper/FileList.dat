@@ -1,0 +1,1396 @@
+<file URL="http://civilization.itgo.com/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="index.html" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36623,5683796296" FileSize="30830" FileType="text/html" Referer="-1" FileFlags=8 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com//favicon.ico"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="Special Default" Destination="WebStripper\favicon01.ico" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684953704" FileSize="1406" FileType="image/gif" Referer="0" FileFlags=4 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/favicon.ico"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="Special Default" Destination="WebStripper\favicon02.ico" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684953704" FileSize="1406" FileType="image/gif" Referer="0" FileFlags=4 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://ssl/"
+ HumanStatus="CantResolve"
+ StatusCode="0"
+ ReasonPhrase="" Destination="ssl\index.html" Status="15" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www/"
+ HumanStatus="CantResolve"
+ StatusCode="0"
+ ReasonPhrase="" Destination="www\index.html" Status="15" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_top_border.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_top_border.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="108" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_x.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_x.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="510" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_l.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_btn_l.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="308" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_m.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_btn_m.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="152" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_r.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_btn_r.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="306" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/sethome_bot_border.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\sethome_bot_border.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="104" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/Music1.mid"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="Music1.mid" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8670949074" FileSize="24663" FileType="audio/midi" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/bannertype/100X22.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\bannertype\100X22.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4684953704" FileSize="2048" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/login"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="cgi-bin\login" Status="19" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" RedirectsTo="301" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="cgi-bin\path\signup.14.html" Status="19" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="73" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447034"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\afr.15.html" Status="19" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447034"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\ai.16.html" Status="19" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/jstag"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\jstag" Status="2" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="47637" FileType="text/javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/overlay.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\js\overlay.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4687962963" FileSize="6482" FileType="application/x-javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/set_homepage.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\js\set_homepage.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4687962963" FileSize="1739" FileType="application/x-javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/emplogon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="emplogon.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36588,7079861111" FileSize="8642" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/zonelogo.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="zonelogo.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,868287037" FileSize="1481" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/pontilhado_menu.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="pontilhado_menu.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8673263889" FileSize="68" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/index.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="index.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5683796296" FileSize="30830" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/clan/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="clan\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,570775463" FileSize="16863" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="jogadores\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5754050926" FileSize="63260" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="historico\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5654976852" FileSize="14399" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/empireliquias/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="empireliquias\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5729282407" FileSize="18476" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/alianca/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="alianca\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5703240741" FileSize="19010" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,9601041667" FileSize="13912" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,9766203704" FileSize="18475" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,9859953704" FileSize="15579" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,993587963" FileSize="19991" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/screenshots.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\screenshots.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5772337963" FileSize="15008" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,9557291667" FileSize="14974" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/estrategias/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="estrategias\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5738078704" FileSize="35824" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/forum.htm"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="forum.htm" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/chat.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="chat.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5676851852" FileSize="17226" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/links.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="links.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5684722222" FileSize="19976" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/anuncie.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="anuncie.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5672337963" FileSize="15210" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map1.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/celeiro.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="celeiro.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8658564815" FileSize="1791" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/empceleiro.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="empceleiro.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36588,7055902778" FileSize="7982" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://c1.thecounter.com/id=140476"
+ HumanStatus="CantResolve"
+ StatusCode="0"
+ ReasonPhrase="" Destination="c1.thecounter.com\id=140476" Status="15" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/eshoplogo.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="eshoplogo.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8663078704" FileSize="1145" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/pontilhado_meio1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="pontilhado_meio1.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8671875" FileSize="105" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/G0100250.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="G0100250.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36588,7900810185" FileSize="4734" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map2.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/scenariocontest.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="scenariocontest.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36604,0242476852" FileSize="7194" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/pontilhado_meio2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="pontilhado_meio2.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8672916667" FileSize="120" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoebackground.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoebackground.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,875775463" FileSize="5413" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/grandesjogadas/HordaCB_AM_r1_HordaxNDS.zip"
+ HumanStatus="NewWaiting"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoebackground.gif" Status="0" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36575,0200347222" FileSize="210490" FileType="application/zip" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_BAr2_TKOxWD.zip"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="jogadores\grandesjogadas\TBECB_BAr2_TKOxWD.zip" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PAr2_FOXxNDS.zip"
+ HumanStatus="NewWaiting"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="jogadores\grandesjogadas\TBECB_BAr2_TKOxWD.zip" Status="0" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36575,0222222222" FileSize="222521" FileType="application/zip" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PIr2_FOXxTWG.zip"
+ HumanStatus="NewWaiting"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="jogadores\grandesjogadas\TBECB_BAr2_TKOxWD.zip" Status="0" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36575,0230787037" FileSize="193015" FileType="application/zip" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_RJr2_TBExTKO.zip"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="jogadores\grandesjogadas\TBECB_RJr2_TBExTKO.zip" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/index.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="killxpersarts\index.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8648032407" FileSize="10633" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map3"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map3.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/chatlogo.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="chatlogo.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36623,5680787037" FileSize="4656" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/votage.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="votage.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36588,7094791667" FileSize="4154" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/al.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="al.htm" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5671527778" FileSize="14724" FileType="text/html" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map4"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map4.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/AL.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="AL.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36582,6574884259" FileSize="9416" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map5"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\index.htm\map5.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="0" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/clas.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="clas.jpg" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36588,7083449074" FileSize="3747" FileType="image/jpeg" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/aoe/aoehead.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\aoe\aoehead.gif" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="36568,8921643519" FileSize="1887" FileType="image/gif" Referer="0" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/www.imlclan.cjb.net"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="www.imlclan.cjb.net" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/papyrus.zip"
+ HumanStatus="NewWaiting"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="www.imlclan.cjb.net" Status="0" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36588,7089699074" FileSize="101300" FileType="application/zip" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/pt.js"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\js\pt.js" Status="2" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="42339,4687962963" FileSize="4924" FileType="application/x-javascript" Referer="0" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://enquete.zaz.com.br/cgi-bin/enquete.pl"
+ HumanStatus="CantResolve"
+ StatusCode="0"
+ ReasonPhrase="" Destination="enquete.zaz.com.br\cgi-bin\enquete.pl" Status="15" Retries="-1" Level="0" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/mailto:berthold@zaz.com.br"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="mailto3Aberthold@zaz.com.br" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="0" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="signup.itgo.com\cgi-bin\path\signup.72.html" Status="19" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="14" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar&verify=1510447044"
+ HumanStatus="Failed"
+ StatusCode="601"
+ ReasonPhrase="Browser Sux Error" Destination="signup.itgo.com\cgi-bin\path\signup.73.html" Status="3" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="14" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447044"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.74.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="24" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447044"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.75.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="24" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/clan/pontilhado_menu.gif"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="clan\pontilhado_menu.gif" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="25" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\index.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="25" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/clan/figclan.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="clan\figclan.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36601,9517592593" FileSize="4897" FileType="image/jpeg" Referer="25" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/index.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="historico\index.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36623,5654976852" FileSize="14399" FileType="text/html" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/clan/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\clan\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/jogadores/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\jogadores\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/empireliquias/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\empireliquias\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/alianca/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\alianca\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/downloads/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\downloads\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/dicas/aoe/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\dicas\aoe\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/dicas/aoeror/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\dicas\aoeror\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/dicas/aok/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\dicas\aok\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/screenshots/screenshots.htm"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\screenshots\screenshots.htm" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/dicas/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\dicas\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/estrategias/"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\estrategias\index.html" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/links.htm"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\links.htm" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/anuncie.htm"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\anuncie.htm" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/last_index999999.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="historico\last_index999999.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36623,5656018518" FileSize="30091" FileType="text/html" Referer="27" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/historicologo.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="historico\historicologo.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5654166667" FileSize="959" FileType="image/jpeg" Referer="27" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447045"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.95.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="29" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447045"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.96.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="29" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/alianca/empalliance.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="alianca\empalliance.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36623,5702199074" FileSize="2613" FileType="image/jpeg" Referer="29" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/jogadores/mailto:berthold@zaz.com.br"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="jogadores\mailto3Aberthold@zaz.com.br" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="26" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/aoe/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\aoe\index.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9610416667" FileSize="17585" FileType="text/html" Referer="30" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/aoeror/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\aoeror\index.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9622685185" FileSize="16096" FileType="text/html" Referer="30" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/aok/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\aok\index.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9631828704" FileSize="15385" FileType="text/html" Referer="30" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\utilitarios\index.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9643981481" FileSize="18246" FileType="text/html" Referer="30" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/pontilhado_menu.gif"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="dicas\pontilhado_menu.gif" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/tabciv.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\tabciv.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9817592593" FileSize="12985" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/aoecheatcodes.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\aoecheatcodes.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9744212963" FileSize="17479" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/sm-xpackwall.jpg"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="dicas\aoe\sm-xpackwall.jpg" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\index.htm\map.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="31" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoecaixa.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoecaixa.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8758333333" FileSize="4359" FileType="image/jpeg" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/stoneage.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\stoneage.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9807638889" FileSize="18305" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\index.htm\map1.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="31" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/pedraicon.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\pedraicon.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8821180556" FileSize="55989" FileType="image/gif" Referer="31" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/toolage.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\toolage.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9839236111" FileSize="18783" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\index.htm\map2.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="31" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/toolicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\toolicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8839583333" FileSize="10608" FileType="image/jpeg" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/bronzeage.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\bronzeage.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9752893519" FileSize="19796" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map3"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\index.htm\map3.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="31" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/bronzeicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\bronzeicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8791898148" FileSize="9831" FileType="image/jpeg" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/ironage.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\ironage.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9767824074" FileSize="20832" FileType="text/html" Referer="31" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map4"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\index.htm\map4.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="31" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/ironicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\ironicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8812152778" FileSize="8500" FileType="image/jpeg" Referer="31" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoerorbackground.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoerorbackground.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8759027778" FileSize="4363" FileType="image/jpeg" Referer="32" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/novidades_ror.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\novidades_ror.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9862962963" FileSize="24513" FileType="text/html" Referer="32" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/rorcheatcodes.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\rorcheatcodes.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9863888889" FileSize="14930" FileType="text/html" Referer="32" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/sm-xpackwall.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\sm-xpackwall.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8871990741" FileSize="5611" FileType="image/jpeg" Referer="32" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoeror/index.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoeror\index.htm\map.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="32" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoerorcaixa.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoerorcaixa.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8759722222" FileSize="4216" FileType="image/jpeg" Referer="32" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe2background.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe2background.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8757060185" FileSize="29225" FileType="image/jpeg" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/pfepfdaunidade.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\pfepfdaunidade.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9936574074" FileSize="12807" FileType="text/html" Referer="33" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/aokcheatcodes.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\aokcheatcodes.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36601,9933333333" FileSize="17476" FileType="text/html" Referer="33" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/sm-xpackwall.jpg"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="dicas\aok\sm-xpackwall.jpg" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aok/index.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aok\index.htm\map.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="33" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/age2caixa.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\age2caixa.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8755439815" FileSize="9883" FileType="image/gif" Referer="33" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/darkageicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\darkageicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8889930556" FileSize="6546" FileType="image/jpeg" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/feudalageicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\feudalageicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8890740741" FileSize="7521" FileType="image/jpeg" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/castleageicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\castleageicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8888541667" FileSize="10029" FileType="image/jpeg" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/imperialageicon.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\imperialageicon.jpg" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8892013889" FileSize="9795" FileType="image/jpeg" Referer="33" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447046"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.137.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447046"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.138.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_3.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_3.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8743518519" FileSize="6123" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_2.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8742013889" FileSize="7463" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_41.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_41.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8749074074" FileSize="6439" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_4.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_4.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8746759259" FileSize="6541" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_40.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_40.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,874837963" FileSize="6519" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_9.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_9.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8749884259" FileSize="5204" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_13.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_13.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8740509259" FileSize="6206" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_14.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_14.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8741203704" FileSize="6721" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_34.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_34.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8745717593" FileSize="5561" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_32.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_32.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8745023148" FileSize="6163" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_30.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_30.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8744328704" FileSize="6479" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/ss_s_26.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\ss_s_26.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8742824074" FileSize="6760" FileType="image/gif" Referer="34" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://chat1.bravenet.com/COM.volano.VolanoChat.class"
+ HumanStatus="ConnectError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="chat1.bravenet.com\COM.volano.VolanoChat.class" Status="17" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/COM/volano/VolanoChat.cab"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="COM\volano\VolanoChat.cab" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&tag=script&time=472015"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="van.ads.link4ads.com\bin\wadredir.153.html" Status="19" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" NewExtension="true" FileFlags=1 RedirectsTo="153" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&mode=via&time=472015"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="van.ads.link4ads.com\bin\wadredir.154.html" Status="19" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" NewExtension="true" FileFlags=17 RedirectsTo="154" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://images.bravenet.com/brpics/spacer.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="images.bravenet.com\brpics\spacer.gif" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="43048,9348611111" FileSize="43" FileType="image/gif" Referer="38" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://images.bravenet.com/brpics/buttonxch/bnetpro.gif"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="images.bravenet.com\brpics\buttonxch\bnetpro.gif" Status="3" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://images.bravenet.com/brpics/bravenettools2.gif"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="images.bravenet.com\brpics\bravenettools2.gif" Status="3" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://chat1.bravenet.com/vcclient"
+ HumanStatus="ConnectError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="chat1.bravenet.com\vcclient" Status="17" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/COM/volano/VolanoChat.jar"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="COM\volano\VolanoChat.jar" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/COM.volano.VolanoChat.class"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="COM.volano.VolanoChat.class" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="38" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/anuncie.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\anuncie.htm\map.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="40" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/microsoft_234x60_age.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="microsoft_234x60_age.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8669907407" FileSize="7494" FileType="image/gif" Referer="40" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="killxpersarts\index.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8648032407" FileSize="10633" FileType="text/html" Referer="57" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447047"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.164.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="57" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447047"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.165.html" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="57" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/wvlogo.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="killxpersarts\wvlogo.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8649305556" FileSize="19600" FileType="image/gif" Referer="57" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/Espiral_vermelha.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="killxpersarts\Espiral_vermelha.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="36568,8647453704" FileSize="313" FileType="image/gif" Referer="57" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/curriculum.htm"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="killxpersarts\curriculum.htm" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8646990741" FileSize="10095" FileType="text/html" Referer="57" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/killxpersarts/mailto:berthold@zaz.com.br"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="killxpersarts\mailto3Aberthold@zaz.com.br" Status="3" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="57" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?thumb=1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.170.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/icons/blank.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="icons\blank.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="42339,4683912037" FileSize="148" FileType="image/gif" Referer="77" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?N=A"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.172.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?M=A"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.173.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?S=A"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.174.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/icons/back.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="icons\back.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="42339,4683912037" FileSize="216" FileType="image/gif" Referer="77" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/icons/text.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="icons\text.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="42339,4683912037" FileSize="229" FileType="image/gif" Referer="77" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/icons/image2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="icons\image2.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="42339,4683912037" FileSize="230" FileType="image/gif" Referer="77" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_13.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_13.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_14.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_14.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_26.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_26.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_3.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_3.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_30.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_30.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_32.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_32.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_34.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_34.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_4.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_4.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_40.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_40.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_41.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_41.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_9.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\ss_s_9.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="77" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447049"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.190.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="93" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447049"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.191.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="93" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\historico\last_index999999.htm\map.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="93" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\historico\last_index999999.htm\map1.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="93" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\historico\last_index999999.htm\map2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="93" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map3"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\historico\last_index999999.htm\map3.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="93" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/historico/mailto:berthold@zaz.com.br"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="historico\mailto3Aberthold@zaz.com.br" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="93" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447050"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.197.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="101" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447050"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.198.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="101" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/pontilhado_menu.gif"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="downloads\pontilhado_menu.gif" Status="3" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="101" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/aok/empmap_aok.zip"
+ HumanStatus="NewWaiting"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\pontilhado_menu.gif" Status="0" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="36568,8938194444" FileSize="215140" FileType="application/zip" Referer="101" RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/msaoe10a.exe"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="downloads\utilitarios\ftp3A5C\ftp.microsoft.com\deskapps\games\public\empires\msaoe10a.exe" Status="3" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="102" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/patch_spl_brz_itl/msaoe10a.exe"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="downloads\utilitarios\ftp3A5C\ftp.microsoft.com\deskapps\games\public\empires\patch_spl_brz_itl\msaoe10a.exe" Status="3" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="102" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/MSAoE10B.EXE"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="downloads\utilitarios\ftp3A5C\ftp.microsoft.com\deskapps\games\public\empires\MSAoE10B.EXE" Status="3" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="102" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/crackcdb.com"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\utilitarios\crackcdb.hxw" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="36568,8948726852" FileSize="335" FileType="application/octet-stream" Referer="102" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/AoELaunch.exe"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="downloads\utilitarios\AoELaunch.exe" Status="3" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="102" RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/downloads/utilitarios/languagex.dll"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="downloads\utilitarios\languagex.hxw" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="36568,8954166667" FileSize="162816" FileType="application/octet-stream" Referer="102" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/town_centre.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\town_centre.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8841319444" FileSize="34188" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/aldeao.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\aldeao.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8777314815" FileSize="3319" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/celeiros.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\celeiros.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8799652778" FileSize="9410" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/quarteis.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\quarteis.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8822916667" FileSize="13645" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/guerreiro_clava.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\guerreiro_clava.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8807291667" FileSize="4012" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/storage_pit.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\storage_pit.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8827083333" FileSize="32446" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/cais.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\cais.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8794212963" FileSize="37350" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/barco_peskeiro.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\barco_peskeiro.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8788194444" FileSize="4614" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/barco_mercante.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\barco_mercante.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8787268518" FileSize="5139" FileType="image/gif" Referer="109" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\stoneage.htm\map.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="109" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\stoneage.htm\map1.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="109" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\stoneage.htm\map2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="109" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/homemachado.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\homemachado.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8808912037" FileSize="3200" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/naviobatedor.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\naviobatedor.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8816782407" FileSize="5335" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/mercados.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\mercados.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8816087963" FileSize="13975" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/archery_range.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\archery_range.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8779050926" FileSize="12344" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueiro.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueiro.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8780555556" FileSize="3603" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/estabulos.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\estabulos.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8804861111" FileSize="42844" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/batedor.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\batedor.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,878900463" FileSize="4042" FileType="image/gif" Referer="112" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\toolage.htm\map.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="112" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\toolage.htm\map1.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="112" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\toolage.htm\map2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="112" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/tabciv_aoe.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\tabciv_aoe.jpg" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8834722222" FileSize="169187" FileType="image/jpeg" Referer="104" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447051"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.230.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447051"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.231.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/pequespadachim.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\pequespadachim.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8821875" FileSize="3591" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/espadachimdefolhalarga.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\espadachimdefolhalarga.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8802314815" FileSize="4480" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/naviopesca.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\naviopesca.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8818518519" FileSize="4929" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/naviomercante.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\naviomercante.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8817476852" FileSize="4870" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/galeraguerra.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\galeraguerra.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8806597222" FileSize="5301" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueiroaperfeicoado.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueiroaperfeicoado.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8781597222" FileSize="3895" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueirocomposto.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueirocomposto.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8785416667" FileSize="3943" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueirocarruagem.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueirocarruagem.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8782407407" FileSize="4407" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/cavalaria.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\cavalaria.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8798148148" FileSize="4196" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/academia.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\academia.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,877662037" FileSize="69551" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/hoplita.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\hoplita.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8809606481" FileSize="4741" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/sededogoverno.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\sededogoverno.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8824537037" FileSize="14861" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/lancapedras.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\lancapedras.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8813657407" FileSize="4491" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/templo.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\templo.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,883587963" FileSize="10967" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/sacerdote.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\sacerdote.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,882349537" FileSize="3899" FileType="image/gif" Referer="115" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\bronzeage.htm\map.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="115" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\bronzeage.htm\map1.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="115" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\bronzeage.htm\map2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="115" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/longoespadachim.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\longoespadachim.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8815046296" FileSize="4139" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/legiao.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\legiao.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8814351852" FileSize="5787" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/transportepesado.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\transportepesado.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,884212963" FileSize="5611" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/trireme.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\trireme.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8842824074" FileSize="5334" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/triremecatapulta.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\triremecatapulta.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8843634259" FileSize="5414" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/juggernaught.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\juggernaught.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8812962963" FileSize="6088" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueirocavalo.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueirocavalo.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8783449074" FileSize="4994" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueirocavalopesado.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueirocavalopesado.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8784606481" FileSize="6232" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/arqueiroelefante.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\arqueiroelefante.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8786342593" FileSize="5194" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/cavalariapesada.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\cavalariapesada.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8798842593" FileSize="4925" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/cataphract.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\cataphract.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,879537037" FileSize="6006" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/elefanteguerra.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\elefanteguerra.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,880162037" FileSize="4437" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/falange.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\falange.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8805902778" FileSize="4230" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/centuriao.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\centuriao.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8800925926" FileSize="5781" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/catapulta.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\catapulta.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8796643519" FileSize="4742" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/catapultarobusta.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\catapultarobusta.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8797337963" FileSize="6076" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/besta.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\besta.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8789583333" FileSize="4908" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoe/helepolis.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoe\helepolis.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8808101852" FileSize="5724" FileType="image/gif" Referer="118" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\ironage.htm\map.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="118" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\ironage.htm\map1.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="118" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map2"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="_vti_bin\shtml.exe\dicas\aoe\ironage.htm\map2.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="118" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/log.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\log.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,886412037" FileSize="2200" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/mart.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\mart.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8864699074" FileSize="2193" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/med.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\med.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8865277778" FileSize="1773" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/towershield.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\towershield.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8872569444" FileSize="2225" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/elephantsm.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\elephantsm.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8862152778" FileSize="4984" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/camelrender-sm.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\camelrender-sm.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8861458333" FileSize="15091" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/firesm.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\firesm.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8862731481" FileSize="3667" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/sm-chariot1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\sm-chariot1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8871180556" FileSize="8405" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/slingersm.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\slingersm.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8867592593" FileSize="2152" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/sm-building_1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\sm-building_1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8868518519" FileSize="10823" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/sm-building_2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\sm-building_2.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8869444444" FileSize="10052" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/sm-building_3.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\sm-building_3.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,887037037" FileSize="11238" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/building-arch1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\building-arch1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8853703704" FileSize="15428" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/building-tc1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\building-tc1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,885462963" FileSize="10772" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/build-storage2.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\build-storage2.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8852662037" FileSize="8523" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/build-govcenter.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\build-govcenter.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8851851852" FileSize="9732" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/building-temple1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\building-temple1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8856481481" FileSize="10765" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/building_7.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\building_7.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8857638889" FileSize="9192" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/building_8.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\building_8.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8858564815" FileSize="9542" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aoeror/buildings-bar1.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aoeror\buildings-bar1.gif" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8860300926" FileSize="16456" FileType="image/gif" Referer="122" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/dicas/aok/pftepfc.jpg"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="dicas\aok\pftepfc.jpg" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="36568,8901388889" FileSize="177457" FileType="image/jpeg" Referer="128" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447052"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.292.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="168" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447052"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.293.html" Status="2" Retries="-1" Level="2" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="168" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?N=A&thumb=1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.294.html" Status="2" Retries="-1" Level="4" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="172" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447053"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.295.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="174" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447053"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.296.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="174" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?S=A&thumb=1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.297.html" Status="2" Retries="-1" Level="4" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="174" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/screenshots/?M=A&thumb=1"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="screenshots\.298.html" Status="2" Retries="-1" Level="4" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="173" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447054"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.299.html" Status="2" Retries="-1" Level="4" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="294" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447054"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.300.html" Status="2" Retries="-1" Level="4" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="294" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/login?redirect=&verify=1510447055&user="
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\login.301.html" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="13" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get("
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\;ah.bs=ag}return ab.template(ae,ah)}function W(ad){r(ad)}function r(ae){var ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y2626Y.html2626(j.get(" Status="18" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)!==d)){af=G(Y);ad=J(B,{src:af});if(!j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)!==d)){af=G(Y);ad=J(B,{src3Aaf});if(!j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)){Y.html=Y.html+ad}}if(j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)){Y.html=Y.html+ad}}if(j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/){V()}ae.onAdUnitRenderStart();if(ae.framed){X(ag,a,j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\){V()}ae.onAdUnitRenderStart();if(ae.framed){X(ag,a,j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/,j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\,j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)||j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)7C7Cj.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/),j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\),j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get("
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function n(ae){var ad,af;if(Y2626Y.html){ad=ab.template(A,{medium3Aab.getMedium(),rtype3AE.RR,txn_state3AY.ts});af=J(B,{src3Aad});if(!j.get(" Status="18" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/);Y.dflting=1;ae=g(ai);al=function(){ae();M.onAdRenderFinish(j,Y,ai)}}else{if(j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\);Y.dflting=1;ae=g(ai);al=function(){ae();M.onAdRenderFinish(j,Y,ai)}}else{if(j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)===d){ak=L}else{if(!M.renderTest){ag=G(Y);ao=J(P,{src:ag,suffix:an})}}if(j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)===d){ak=L}else{if(!M.renderTest){ag=G(Y);ao=J(P,{src3Aag,suffix3Aan})}}if(j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)+ah+aj;if(ab.isUnfriendlyFramed()&&j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)+ah+aj;if(ab.isUnfriendlyFramed()2626j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/)===D){q(ad,am,af,ae,al,an,ai)}else{f(ad,am,af,ae,al,an,ai)}j.set("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\)===D){q(ad,am,af,ae,al,an,ai)}else{f(ad,am,af,ae,al,an,ai)}j.set(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get("
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\,function(an){if(an.source===am.contentWindow2626an.data===ad){ai()}})}function ae(){if(u.chain2626u.chain.length3ET+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function f(ak,ae,ai,ah,ad,af,aj){var ag;if(ab.isFriendlyFramed()2626j.get(" Status="18" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get("
+ HumanStatus="CreateError"
+ StatusCode="0"
+ ReasonPhrase="" Destination="uol-d.openx.net\w\1.0\,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new N(U)}else{Y=u.chain2626u.chain[0];t=new N(n)}}else{t=new N(W)}}else{Y=u.chain2626u.chain[0];t=new N(r)}R=1;m=0;af.oninit2626af.oninit(j)};j.render=function(ae){var aj,ak,ad=j.get(" Status="18" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/),ag=j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\),ag=j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/),af=j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\),af=j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/,ah=j.get("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\,ah=j.get(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/+ab.rand();af=ab.template(Q,{divID:ak})+af;ah+=ab.template(w);j.set("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\+ab.rand();af=ab.template(Q,{divID3Aak})+af;ah+=ab.template(w);j.set(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/,af);j.set("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\,af);j.set(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/}}catch(ai){}}if(m){return}j.set("
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\}}catch(ai){}}if(m){return}j.set(" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/;var%20ad=L.ie&&L.win?"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Object Not Found" Destination="uol-d.openx.net\w\1.0\;var ad=L.ie2626L.win.322.html" Status="3" Retries="-1" Level="0" ServerHops="1" SubServerLevel="1" FileDate="0" FileSize="-1" FileType="" Referer="17" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/0.25"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="fs_img\js\0.25" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="18" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/css/new_style.css?partner=itgo.com"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\css\new_style.css.324.css" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4684953704" FileSize="9890" FileType="text/css" Referer="21" NewExtension="true" FileFlags=1 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/logo_small.gif?partner=itgo.com"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\logo_small.gif.325..gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4684953704" FileSize="2491" FileType="image/gif" Referer="21" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/cgi/frontpage.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\cgi\frontpage.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4687731481" FileSize="1132" FileType="image/gif" Referer="21" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/util/frontpage"
+ HumanStatus="LocationChange"
+ StatusCode="0"
+ ReasonPhrase="" Destination="cgi-bin\util\frontpage" Status="19" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="21" RedirectsTo="348" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://www.communityarchitect.com/fs_img/footer/spacer.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="www.communityarchitect.com\fs_img\footer\spacer.gif" Status="2" Retries="-1" Level="1" ServerHops="1" SubServerLevel="0" FileDate="42339,4687731481" FileSize="49" FileType="image/gif" Referer="21" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/white_TR.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\white_TR.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4687268519" FileSize="58" FileType="image/gif" Referer="324" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/white_TL.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="fs_img\white_TL.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4687268519" FileSize="58" FileType="image/gif" Referer="324" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/tab_selected.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\tab_selected.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="974" FileType="image/gif" Referer="324" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/image/images/tab_unselected.gif"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\image\images\tab_unselected.gif" Status="2" Retries="-1" Level="1" ServerHops="0" SubServerLevel="0" FileDate="42339,4684837963" FileSize="970" FileType="image/gif" Referer="324" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/unitedonline.cleanprint.net"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="fs_img\js\unitedonline.cleanprint.net" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="69" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/secure-unitedonline.cleanprint.net"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="fs_img\js\secure-unitedonline.cleanprint.net" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="69" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/[^.]+.[^.]+$"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="fs_img\js\[^.]+.[^.]+$" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="69" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/fs_img/js/formatdynamics.com,cleanprint.net"
+ HumanStatus="Failed"
+ StatusCode="404"
+ ReasonPhrase="Not Found" Destination="fs_img\js\formatdynamics.com,cleanprint.net" Status="3" Retries="-1" Level="0" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="" Referer="69" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NoFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/i/screenshots/"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\i\screenshots\index.html" Status="2" Retries="-1" Level="3" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="178" FileFlags=16 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447073"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.338.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="178" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447073"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.339.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="178" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447074"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.340.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="179" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447074"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.341.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="179" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447075"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.342.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="180" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447075"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.343.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="180" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447076"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.344.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="185" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447076"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.345.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="185" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447077"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\afr.346.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="457" FileType="text/html" Referer="189" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447077"
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="uol-d.openx.net\w\1.0\ai.347.html" Status="2" Retries="-1" Level="3" ServerHops="1" SubServerLevel="0" FileDate="0" FileSize="43" FileType="image/*, image/gif" Referer="189" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>
+<file URL="http://civilization.itgo.com/cgi-bin/login?remaining_mins=0&redirect=/cgi-bin/util/frontpage&user="
+ HumanStatus="Success"
+ StatusCode="200"
+ ReasonPhrase="OK" Destination="cgi-bin\login.348.html" Status="2" Retries="-1" Level="2" ServerHops="0" SubServerLevel="0" FileDate="0" FileSize="-1" FileType="text/html" Referer="327" NewExtension="true" FileFlags=17 RedirectsTo="-1" RedirectsTo2="-1" NewFile="true"></file>

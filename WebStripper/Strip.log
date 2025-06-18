@@ -1,0 +1,2046 @@
+22:37:12: *******************************************11/11/2017 22:37:12
+22:37:12: Version: 3.30
+22:37:12: Name=Civilization.itgo
+22:37:12: URL=http://civilization.itgo.com/
+22:37:12: Folder=c:\users\hjf84_000\documents\webstripper\civilization.itgo\
+22:37:12: 
+22:37:12: Action=Strip
+22:37:12: FileTypes=
+22:37:12: Text, 
+22:37:12: Graphics, 
+22:37:12: Multimedia, 
+22:37:12: Others, 
+22:37:12: 
+22:37:12: MaxFileSize=-100
+22:37:12: PrimaryOnlySubs=True
+22:37:12: PrimaryDepth=-7
+22:37:12: SertverDepth=-1
+22:37:12: OtherDepth=-1
+22:37:12: RootFile=
+22:37:12: InitialiseData
+22:37:12: InitialseFileList
+22:37:12: Strip
+22:37:12: Initialise message: Downloading
+22:37:12: Downloading: 0 http://civilization.itgo.com/
+22:37:12: Count: 3  ToDo: 3
+22:37:12: Downloading: 1 http://civilization.itgo.com//favicon.ico
+22:37:12: Count: 3  ToDo: 3
+22:37:12: Downloading: 2 http://civilization.itgo.com/favicon.ico
+22:37:12: Count: 3  ToDo: 3
+22:37:12: Done: 2 http://civilization.itgo.com/favicon.ico Success
+22:37:12: Done: 1 http://civilization.itgo.com//favicon.ico Success
+22:37:13: Done: 0 http://civilization.itgo.com/ Success
+22:37:13: Count: 4
+22:37:13: HTML: 1
+22:37:13: Count: 4
+22:37:13: HTML: 2
+22:37:13: Count: 4
+22:37:13: HTML: 3
+22:37:13: Downloading: 3 http://ssl/
+22:37:13: Count: 4  ToDo: 1
+22:37:13: Downloading: 4 http://www/
+22:37:13: Count: 5  ToDo: 2
+22:37:13: Downloading: 5 http://civilization.itgo.com/cgi-bin/image/images/sethome_top_border.gif
+22:37:13: Count: 6  ToDo: 3
+22:37:13: Downloading: 6 http://civilization.itgo.com/cgi-bin/image/images/sethome_x.gif
+22:37:13: Count: 7  ToDo: 4
+22:37:13: Downloading: 14 http://civilization.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar
+22:37:13: Count: 72  ToDo: 69
+22:37:20: Done: 3 http://ssl/ CantResolve
+22:37:20: CheckConnection: Can't Resolve (Host not found) http://ssl/
+22:37:20: LastError: 11001
+22:37:20: Count: 72
+22:37:20: HTML: 4
+22:37:20: Downloading: 15 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447034
+22:37:20: Count: 72  ToDo: 68
+22:37:22: Done: 4 http://www/ CantResolve
+22:37:22: CheckConnection: Can't Resolve (Host not found) http://www/
+22:37:22: LastError: 11001
+22:37:22: Count: 72
+22:37:22: HTML: 5
+22:37:22: Downloading: 16 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447034
+22:37:22: Count: 72  ToDo: 67
+22:37:22: Done: 5 http://civilization.itgo.com/cgi-bin/image/images/sethome_top_border.gif Success
+22:37:22: Count: 72
+22:37:22: HTML: 6
+22:37:22: Downloading: 24 http://civilization.itgo.com/index.htm
+22:37:22: Count: 72  ToDo: 66
+22:37:22: Done: 6 http://civilization.itgo.com/cgi-bin/image/images/sethome_x.gif Success
+22:37:22: Count: 72
+22:37:22: HTML: 7
+22:37:22: Downloading: 25 http://civilization.itgo.com/clan/
+22:37:22: Count: 72  ToDo: 65
+22:37:23: Done: 15 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447034 LocationChange
+22:37:23: *****: HTTP status is unknown (DoneDownload)
+22:37:23: LastError: 3
+22:37:23: Downloading: 26 http://civilization.itgo.com/jogadores/
+22:37:23: Count: 73  ToDo: 65
+22:37:23: Done: 16 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447034 LocationChange
+22:37:23: *****: HTTP status is unknown (DoneDownload)
+22:37:23: LastError: 3
+22:37:23: Downloading: 27 http://civilization.itgo.com/historico/
+22:37:23: Count: 73  ToDo: 64
+22:37:23: Done: 24 http://civilization.itgo.com/index.htm Success
+22:37:23: Done: 25 http://civilization.itgo.com/clan/ Success
+22:37:23: Downloading: 28 http://civilization.itgo.com/empireliquias/
+22:37:23: Count: 79  ToDo: 68
+22:37:23: Downloading: 29 http://civilization.itgo.com/alianca/
+22:37:23: Count: 79  ToDo: 68
+22:37:23: Done: 27 http://civilization.itgo.com/historico/ Success
+22:37:23: Downloading: 30 http://civilization.itgo.com/downloads/
+22:37:23: Count: 95  ToDo: 83
+22:37:24: Done: 14 http://civilization.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar LocationChange
+22:37:24: *****: HTTP status is unknown (DoneDownload)
+22:37:24: LastError: 3
+22:37:24: Downloading: 31 http://civilization.itgo.com/dicas/aoe/
+22:37:24: Count: 95  ToDo: 82
+22:37:24: Done: 29 http://civilization.itgo.com/alianca/ Success
+22:37:24: Downloading: 32 http://civilization.itgo.com/dicas/aoeror/
+22:37:24: Count: 98  ToDo: 84
+22:37:24: Done: 28 http://civilization.itgo.com/empireliquias/ Success
+22:37:24: Downloading: 33 http://civilization.itgo.com/dicas/aok/
+22:37:24: Count: 98  ToDo: 83
+22:37:24: Done: 26 http://civilization.itgo.com/jogadores/ Success
+22:37:24: Downloading: 34 http://civilization.itgo.com/screenshots/screenshots.htm
+22:37:24: Count: 99  ToDo: 83
+22:37:24: Done: 30 http://civilization.itgo.com/downloads/ Success
+22:37:24: Downloading: 35 http://civilization.itgo.com/dicas/
+22:37:24: Count: 103  ToDo: 86
+22:37:24: Done: 31 http://civilization.itgo.com/dicas/aoe/ Success
+22:37:24: Downloading: 36 http://civilization.itgo.com/estrategias/
+22:37:24: Count: 121  ToDo: 103
+22:37:24: Done: 32 http://civilization.itgo.com/dicas/aoeror/ Success
+22:37:24: Downloading: 37 http://civilization.itgo.com/forum.htm
+22:37:24: Count: 127  ToDo: 108
+22:37:24: Done: 33 http://civilization.itgo.com/dicas/aok/ Success
+22:37:24: Downloading: 38 http://civilization.itgo.com/chat.htm
+22:37:24: Count: 137  ToDo: 117
+22:37:24: Done: 34 http://civilization.itgo.com/screenshots/screenshots.htm Success
+22:37:24: Downloading: 39 http://civilization.itgo.com/links.htm
+22:37:24: Count: 151  ToDo: 130
+22:37:25: Done: 35 http://civilization.itgo.com/dicas/ Success
+22:37:25: Downloading: 40 http://civilization.itgo.com/anuncie.htm
+22:37:25: Count: 151  ToDo: 129
+22:37:25: Done: 36 http://civilization.itgo.com/estrategias/ Success
+22:37:25: Downloading: 57 http://civilization.itgo.com/killxpersarts/index.htm
+22:37:25: Count: 151  ToDo: 128
+22:37:25: Done: 37 http://civilization.itgo.com/forum.htm Failed
+22:37:25: : Fail http://civilization.itgo.com/forum.htm
+22:37:25: 404: Not Found
+22:37:25: LastError: 0 No Error
+22:37:25: Downloading: 61 http://civilization.itgo.com/al.htm
+22:37:25: Count: 151  ToDo: 127
+22:37:25: Done: 39 http://civilization.itgo.com/links.htm Success
+22:37:25: Downloading: 72 http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar
+22:37:25: Count: 151  ToDo: 126
+22:37:25: Done: 38 http://civilization.itgo.com/chat.htm Success
+22:37:25: Downloading: 73 http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar&verify=1510447044
+22:37:25: Count: 161  ToDo: 135
+22:37:25: Done: 40 http://civilization.itgo.com/anuncie.htm Success
+22:37:25: Downloading: 74 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447044
+22:37:25: Count: 163  ToDo: 136
+22:37:25: Done: 57 http://civilization.itgo.com/killxpersarts/index.htm Success
+22:37:25: Downloading: 75 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447044
+22:37:25: Count: 170  ToDo: 142
+22:37:26: Done: 61 http://civilization.itgo.com/al.htm Success
+22:37:26: Downloading: 77 http://civilization.itgo.com/screenshots/
+22:37:26: Count: 170  ToDo: 141
+22:37:26: Done: 73 http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar&verify=1510447044 Failed
+22:37:26: : Fail http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar&verify=1510447044
+22:37:26: 601: Browser Sux Error
+22:37:26: LastError: 0 No Error
+22:37:26: Downloading: 79 http://civilization.itgo.com/historico/index.htm
+22:37:26: Count: 170  ToDo: 140
+22:37:26: Done: 74 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447044 Success
+22:37:26: Downloading: 80 http://civilization.itgo.com/historico/clan/
+22:37:26: Count: 170  ToDo: 139
+22:37:26: Done: 75 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447044 Success
+22:37:26: Downloading: 81 http://civilization.itgo.com/historico/jogadores/
+22:37:26: Count: 170  ToDo: 138
+22:37:26: Done: 72 http://signup.itgo.com/cgi-bin/path/signup?refcd=MWS_20040713_Banner_bar LocationChange
+22:37:26: *****: HTTP status is unknown (DoneDownload)
+22:37:26: LastError: 3
+22:37:26: Downloading: 82 http://civilization.itgo.com/historico/empireliquias/
+22:37:26: Count: 170  ToDo: 137
+22:37:26: Done: 77 http://civilization.itgo.com/screenshots/ Success
+22:37:26: Downloading: 83 http://civilization.itgo.com/historico/alianca/
+22:37:26: Count: 190  ToDo: 156
+22:37:26: Done: 80 http://civilization.itgo.com/historico/clan/ Failed
+22:37:26: : Fail http://civilization.itgo.com/historico/clan/
+22:37:26: 404: Not Found
+22:37:26: LastError: 0 No Error
+22:37:26: Downloading: 84 http://civilization.itgo.com/historico/downloads/
+22:37:26: Count: 190  ToDo: 155
+22:37:26: Done: 81 http://civilization.itgo.com/historico/jogadores/ Failed
+22:37:26: : Fail http://civilization.itgo.com/historico/jogadores/
+22:37:26: 404: Not Found
+22:37:26: LastError: 0 No Error
+22:37:26: Downloading: 85 http://civilization.itgo.com/historico/dicas/aoe/
+22:37:26: Count: 190  ToDo: 154
+22:37:27: Done: 79 http://civilization.itgo.com/historico/index.htm Success
+22:37:27: Downloading: 86 http://civilization.itgo.com/historico/dicas/aoeror/
+22:37:27: Count: 190  ToDo: 153
+22:37:27: Done: 82 http://civilization.itgo.com/historico/empireliquias/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/empireliquias/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 87 http://civilization.itgo.com/historico/dicas/aok/
+22:37:27: Count: 190  ToDo: 152
+22:37:27: Done: 83 http://civilization.itgo.com/historico/alianca/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/alianca/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 88 http://civilization.itgo.com/historico/screenshots/screenshots.htm
+22:37:27: Count: 190  ToDo: 151
+22:37:27: Done: 84 http://civilization.itgo.com/historico/downloads/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/downloads/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 89 http://civilization.itgo.com/historico/dicas/
+22:37:27: Count: 190  ToDo: 150
+22:37:27: Done: 85 http://civilization.itgo.com/historico/dicas/aoe/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/dicas/aoe/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 90 http://civilization.itgo.com/historico/estrategias/
+22:37:27: Count: 190  ToDo: 149
+22:37:27: Done: 86 http://civilization.itgo.com/historico/dicas/aoeror/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/dicas/aoeror/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 91 http://civilization.itgo.com/historico/links.htm
+22:37:27: Count: 190  ToDo: 148
+22:37:27: Done: 87 http://civilization.itgo.com/historico/dicas/aok/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/dicas/aok/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 92 http://civilization.itgo.com/historico/anuncie.htm
+22:37:27: Count: 190  ToDo: 147
+22:37:27: Done: 88 http://civilization.itgo.com/historico/screenshots/screenshots.htm Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/screenshots/screenshots.htm
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 93 http://civilization.itgo.com/historico/last_index999999.htm
+22:37:27: Count: 190  ToDo: 146
+22:37:27: Done: 89 http://civilization.itgo.com/historico/dicas/ Failed
+22:37:27: : Fail http://civilization.itgo.com/historico/dicas/
+22:37:27: 404: Not Found
+22:37:27: LastError: 0 No Error
+22:37:27: Downloading: 95 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447045
+22:37:27: Count: 190  ToDo: 145
+22:37:28: Done: 90 http://civilization.itgo.com/historico/estrategias/ Failed
+22:37:28: : Fail http://civilization.itgo.com/historico/estrategias/
+22:37:28: 404: Not Found
+22:37:28: LastError: 0 No Error
+22:37:28: Downloading: 96 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447045
+22:37:28: Count: 190  ToDo: 144
+22:37:28: Done: 91 http://civilization.itgo.com/historico/links.htm Failed
+22:37:28: : Fail http://civilization.itgo.com/historico/links.htm
+22:37:28: 404: Not Found
+22:37:28: LastError: 0 No Error
+22:37:28: Done: 92 http://civilization.itgo.com/historico/anuncie.htm Failed
+22:37:28: : Fail http://civilization.itgo.com/historico/anuncie.htm
+22:37:28: 404: Not Found
+22:37:28: LastError: 0 No Error
+22:37:28: Downloading: 99 http://civilization.itgo.com/downloads/aoe/
+22:37:28: Count: 190  ToDo: 142
+22:37:28: Downloading: 100 http://civilization.itgo.com/downloads/aoeror/
+22:37:28: Count: 190  ToDo: 142
+22:37:28: Done: 95 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447045 Success
+22:37:28: Downloading: 101 http://civilization.itgo.com/downloads/aok/
+22:37:28: Count: 190  ToDo: 141
+22:37:28: Done: 96 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447045 Success
+22:37:28: Downloading: 102 http://civilization.itgo.com/downloads/utilitarios/
+22:37:28: Count: 190  ToDo: 140
+22:37:28: Done: 93 http://civilization.itgo.com/historico/last_index999999.htm Success
+22:37:28: Downloading: 104 http://civilization.itgo.com/dicas/aoe/tabciv.htm
+22:37:28: Count: 197  ToDo: 146
+22:37:28: Done: 101 http://civilization.itgo.com/downloads/aok/ Success
+22:37:28: Done: 99 http://civilization.itgo.com/downloads/aoe/ Success
+22:37:28: Downloading: 105 http://civilization.itgo.com/dicas/aoe/aoecheatcodes.htm
+22:37:28: Count: 201  ToDo: 148
+22:37:28: Downloading: 109 http://civilization.itgo.com/dicas/aoe/stoneage.htm
+22:37:28: Count: 201  ToDo: 148
+22:37:28: Done: 100 http://civilization.itgo.com/downloads/aoeror/ Success
+22:37:29: Downloading: 112 http://civilization.itgo.com/dicas/aoe/toolage.htm
+22:37:29: Count: 201  ToDo: 147
+22:37:29: Done: 102 http://civilization.itgo.com/downloads/utilitarios/ Success
+22:37:29: Downloading: 115 http://civilization.itgo.com/dicas/aoe/bronzeage.htm
+22:37:29: Count: 207  ToDo: 152
+22:37:29: Done: 109 http://civilization.itgo.com/dicas/aoe/stoneage.htm Success
+22:37:29: Downloading: 118 http://civilization.itgo.com/dicas/aoe/ironage.htm
+22:37:29: Count: 219  ToDo: 163
+22:37:29: Done: 105 http://civilization.itgo.com/dicas/aoe/aoecheatcodes.htm Success
+22:37:29: Downloading: 122 http://civilization.itgo.com/dicas/aoeror/novidades_ror.htm
+22:37:29: Count: 219  ToDo: 162
+22:37:29: Done: 112 http://civilization.itgo.com/dicas/aoe/toolage.htm Success
+22:37:29: Downloading: 123 http://civilization.itgo.com/dicas/aoeror/rorcheatcodes.htm
+22:37:29: Count: 229  ToDo: 171
+22:37:29: Done: 104 http://civilization.itgo.com/dicas/aoe/tabciv.htm Success
+22:37:29: Downloading: 128 http://civilization.itgo.com/dicas/aok/pfepfdaunidade.htm
+22:37:29: Count: 230  ToDo: 171
+22:37:30: Done: 115 http://civilization.itgo.com/dicas/aoe/bronzeage.htm Success
+22:37:30: Downloading: 129 http://civilization.itgo.com/dicas/aok/aokcheatcodes.htm
+22:37:30: Count: 250  ToDo: 190
+22:37:30: Done: 118 http://civilization.itgo.com/dicas/aoe/ironage.htm Success
+22:37:30: Downloading: 137 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447046
+22:37:30: Count: 271  ToDo: 210
+22:37:30: Done: 122 http://civilization.itgo.com/dicas/aoeror/novidades_ror.htm Success
+22:37:30: Downloading: 138 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447046
+22:37:30: Count: 291  ToDo: 229
+22:37:30: Done: 123 http://civilization.itgo.com/dicas/aoeror/rorcheatcodes.htm Success
+22:37:30: Downloading: 153 http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&tag=script&time=472015
+22:37:30: Count: 291  ToDo: 228
+22:37:30: Done: 128 http://civilization.itgo.com/dicas/aok/pfepfdaunidade.htm Success
+22:37:30: Downloading: 154 http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&mode=via&time=472015
+22:37:30: Count: 292  ToDo: 228
+22:37:30: Done: 137 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447046 Success
+22:37:30: Downloading: 163 http://civilization.itgo.com/killxpersarts/
+22:37:30: Count: 292  ToDo: 227
+22:37:30: Done: 129 http://civilization.itgo.com/dicas/aok/aokcheatcodes.htm Success
+22:37:30: Done: 138 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447046 Success
+22:37:30: Downloading: 164 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447047
+22:37:30: Count: 292  ToDo: 225
+22:37:30: Downloading: 165 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447047
+22:37:30: Count: 292  ToDo: 225
+22:37:31: Done: 164 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447047 Success
+22:37:31: Done: 165 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447047 Success
+22:37:31: Downloading: 168 http://civilization.itgo.com/killxpersarts/curriculum.htm
+22:37:31: Count: 292  ToDo: 223
+22:37:31: Downloading: 170 http://civilization.itgo.com/screenshots/?thumb=1
+22:37:31: Count: 292  ToDo: 223
+22:37:31: Done: 163 http://civilization.itgo.com/killxpersarts/ Success
+22:37:31: Downloading: 172 http://civilization.itgo.com/screenshots/?N=A
+22:37:31: Count: 292  ToDo: 222
+22:37:31: Done: 168 http://civilization.itgo.com/killxpersarts/curriculum.htm Success
+22:37:31: Done: 153 http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&tag=script&time=472015 LocationChange
+22:37:31: *****: HTTP status is unknown (DoneDownload)
+22:37:31: LastError: 3
+22:37:31: Done: 154 http://van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27279&pageid=1.96424982476339&service=chat&catg=160&mode=via&time=472015 LocationChange
+22:37:31: *****: HTTP status is unknown (DoneDownload)
+22:37:31: LastError: 3
+22:37:31: Done: 170 http://civilization.itgo.com/screenshots/?thumb=1 Success
+22:37:31: Downloading: 173 http://civilization.itgo.com/screenshots/?M=A
+22:37:31: Count: 294  ToDo: 220
+22:37:31: Downloading: 174 http://civilization.itgo.com/screenshots/?S=A
+22:37:31: Count: 294  ToDo: 220
+22:37:31: Downloading: 190 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447049
+22:37:31: Count: 294  ToDo: 220
+22:37:31: Downloading: 191 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447049
+22:37:31: Count: 294  ToDo: 220
+22:37:31: Done: 172 http://civilization.itgo.com/screenshots/?N=A Success
+22:37:31: Downloading: 197 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447050
+22:37:31: Count: 295  ToDo: 220
+22:37:32: Done: 191 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447049 Success
+22:37:32: Done: 190 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447049 Success
+22:37:32: Downloading: 198 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447050
+22:37:32: Count: 295  ToDo: 218
+22:37:32: Downloading: 230 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447051
+22:37:32: Count: 295  ToDo: 218
+22:37:32: Done: 197 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447050 Success
+22:37:32: Downloading: 231 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447051
+22:37:32: Count: 295  ToDo: 217
+22:37:32: Done: 174 http://civilization.itgo.com/screenshots/?S=A Success
+22:37:32: Downloading: 292 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447052
+22:37:32: Count: 298  ToDo: 219
+22:37:32: Done: 173 http://civilization.itgo.com/screenshots/?M=A Success
+22:37:32: Downloading: 293 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447052
+22:37:32: Count: 299  ToDo: 219
+22:37:32: Done: 230 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447051 Success
+22:37:32: Downloading: 294 http://civilization.itgo.com/screenshots/?N=A&thumb=1
+22:37:32: Count: 299  ToDo: 218
+22:37:32: Done: 198 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447050 Success
+22:37:32: Done: 231 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447051 Success
+22:37:32: Downloading: 295 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447053
+22:37:32: Count: 299  ToDo: 216
+22:37:32: Downloading: 296 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447053
+22:37:32: Count: 299  ToDo: 216
+22:37:32: Done: 292 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447052 Success
+22:37:32: Downloading: 297 http://civilization.itgo.com/screenshots/?S=A&thumb=1
+22:37:32: Count: 299  ToDo: 215
+22:37:32: Done: 293 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447052 Success
+22:37:32: Downloading: 298 http://civilization.itgo.com/screenshots/?M=A&thumb=1
+22:37:32: Count: 299  ToDo: 214
+22:37:33: Done: 295 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447053 Success
+22:37:33: Downloading: 7 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_l.gif
+22:37:33: Count: 299  ToDo: 213
+22:37:33: Done: 296 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447053 Success
+22:37:33: Downloading: 8 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_m.gif
+22:37:33: Count: 299  ToDo: 212
+22:37:33: Done: 294 http://civilization.itgo.com/screenshots/?N=A&thumb=1 Success
+22:37:33: Downloading: 299 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447054
+22:37:33: Count: 301  ToDo: 213
+22:37:33: Done: 298 http://civilization.itgo.com/screenshots/?M=A&thumb=1 Success
+22:37:33: Downloading: 300 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447054
+22:37:33: Count: 301  ToDo: 212
+22:37:33: Done: 297 http://civilization.itgo.com/screenshots/?S=A&thumb=1 Success
+22:37:33: Downloading: 9 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_r.gif
+22:37:33: Count: 301  ToDo: 211
+22:37:33: Done: 299 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447054 Success
+22:37:33: Done: 7 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_l.gif Success
+22:37:33: Done: 8 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_m.gif Success
+22:37:33: Count: 301
+22:37:33: HTML: 8
+22:37:33: Count: 301
+22:37:33: HTML: 9
+22:37:33: Downloading: 10 http://civilization.itgo.com/cgi-bin/image/images/sethome_bot_border.gif
+22:37:33: Count: 301  ToDo: 208
+22:37:33: Downloading: 11 http://civilization.itgo.com/Music1.mid
+22:37:33: Count: 301  ToDo: 208
+22:37:33: Downloading: 12 http://civilization.itgo.com/cgi-bin/image/images/bannertype/100X22.gif
+22:37:33: Count: 301  ToDo: 208
+22:37:33: Done: 300 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447054 Success
+22:37:33: Downloading: 13 http://civilization.itgo.com/cgi-bin/login
+22:37:33: Count: 301  ToDo: 207
+22:37:33: Done: 9 http://civilization.itgo.com/cgi-bin/image/images/sethome_btn_r.gif Success
+22:37:33: Count: 301
+22:37:33: HTML: 10
+22:37:33: Downloading: 17 http://uol-d.openx.net/w/1.0/jstag
+22:37:33: Count: 301  ToDo: 206
+22:37:34: Done: 10 http://civilization.itgo.com/cgi-bin/image/images/sethome_bot_border.gif Success
+22:37:34: Done: 12 http://civilization.itgo.com/cgi-bin/image/images/bannertype/100X22.gif Success
+22:37:34: Count: 301
+22:37:34: HTML: 11
+22:37:34: Downloading: 18 http://civilization.itgo.com/fs_img/js/overlay.js
+22:37:34: Count: 301  ToDo: 204
+22:37:34: Downloading: 19 http://civilization.itgo.com/fs_img/js/set_homepage.js
+22:37:34: Count: 301  ToDo: 204
+22:37:34: Done: 11 http://civilization.itgo.com/Music1.mid Success
+22:37:34: Count: 301
+22:37:34: HTML: 12
+22:37:34: Count: 301
+22:37:34: HTML: 13
+22:37:34: Downloading: 20 http://civilization.itgo.com/emplogon.jpg
+22:37:34: Count: 301  ToDo: 203
+22:37:34: Done: 17 http://uol-d.openx.net/w/1.0/jstag Success
+22:37:34: Done: 19 http://civilization.itgo.com/fs_img/js/set_homepage.js Success
+22:37:34: Done: 18 http://civilization.itgo.com/fs_img/js/overlay.js Success
+22:37:34: Downloading: 301 http://civilization.itgo.com/cgi-bin/login?redirect=&verify=1510447055&user=
+22:37:34: Count: 324  ToDo: 223
+22:37:34: Downloading: 322 http://uol-d.openx.net/w/1.0/;var%20ad=L.ie&&L.win?
+22:37:34: Count: 324  ToDo: 223
+22:37:34: Downloading: 21 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map
+22:37:34: Count: 324  ToDo: 223
+22:37:34: Done: 20 http://civilization.itgo.com/emplogon.jpg Success
+22:37:34: Downloading: 22 http://civilization.itgo.com/zonelogo.gif
+22:37:34: Count: 324  ToDo: 222
+22:37:35: Done: 13 http://civilization.itgo.com/cgi-bin/login LocationChange
+22:37:35: *****: HTTP status is unknown (DoneDownload)
+22:37:35: LastError: 3
+22:37:35: Count: 324
+22:37:35: HTML: 14
+22:37:35: Count: 324
+22:37:35: HTML: 15
+22:37:35: Count: 324
+22:37:35: HTML: 16
+22:37:35: Count: 324
+22:37:35: HTML: 17
+22:37:35: Count: 324
+22:37:35: HTML: 18
+22:37:35: Count: 324
+22:37:35: HTML: 19
+22:37:35: Count: 324
+22:37:35: HTML: 20
+22:37:35: Count: 324
+22:37:35: HTML: 21
+22:37:35: Downloading: 23 http://civilization.itgo.com/pontilhado_menu.gif
+22:37:35: Count: 324  ToDo: 221
+22:37:35: Done: 22 http://civilization.itgo.com/zonelogo.gif Success
+22:37:35: Downloading: 41 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map1
+22:37:35: Count: 324  ToDo: 220
+22:37:35: Done: 21 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map Success
+22:37:35: Done: 322 http://uol-d.openx.net/w/1.0/;var%20ad=L.ie&&L.win? Failed
+22:37:35: : Fail http://uol-d.openx.net/w/1.0/;var%20ad=L.ie&&L.win?
+22:37:35: 404: Object Not Found
+22:37:35: LastError: 0 No Error
+22:37:35: Count: 329
+22:37:35: HTML: 22
+22:37:35: Count: 329
+22:37:35: HTML: 23
+22:37:35: Downloading: 324 http://civilization.itgo.com/cgi-bin/css/new_style.css?partner=itgo.com
+22:37:35: Count: 329  ToDo: 223
+22:37:35: Downloading: 325 http://civilization.itgo.com/cgi-bin/image/logo_small.gif?partner=itgo.com
+22:37:35: Count: 329  ToDo: 223
+22:37:35: Done: 301 http://civilization.itgo.com/cgi-bin/login?redirect=&verify=1510447055&user= Success
+22:37:35: Downloading: 42 http://civilization.itgo.com/celeiro.gif
+22:37:35: Count: 329  ToDo: 222
+22:37:35: Done: 23 http://civilization.itgo.com/pontilhado_menu.gif Success
+22:37:35: Count: 329
+22:37:35: HTML: 24
+22:37:35: Count: 329
+22:37:35: HTML: 25
+22:37:35: Count: 329
+22:37:35: HTML: 26
+22:37:35: Count: 329
+22:37:35: HTML: 27
+22:37:35: Count: 329
+22:37:35: HTML: 28
+22:37:35: Count: 329
+22:37:35: HTML: 29
+22:37:35: Count: 329
+22:37:35: HTML: 30
+22:37:35: Count: 329
+22:37:35: HTML: 31
+22:37:35: Count: 329
+22:37:35: HTML: 32
+22:37:35: Count: 329
+22:37:35: HTML: 33
+22:37:35: Count: 329
+22:37:35: HTML: 34
+22:37:35: Count: 329
+22:37:35: HTML: 35
+22:37:35: Count: 329
+22:37:35: HTML: 36
+22:37:35: Count: 329
+22:37:35: HTML: 37
+22:37:35: Count: 329
+22:37:35: HTML: 38
+22:37:35: Count: 329
+22:37:35: HTML: 39
+22:37:35: Count: 329
+22:37:35: HTML: 40
+22:37:35: Count: 329
+22:37:35: HTML: 41
+22:37:35: Downloading: 43 http://civilization.itgo.com/empceleiro.jpg
+22:37:35: Count: 329  ToDo: 221
+22:37:36: Done: 325 http://civilization.itgo.com/cgi-bin/image/logo_small.gif?partner=itgo.com Success
+22:37:36: Downloading: 44 http://c1.thecounter.com/id=140476
+22:37:36: Count: 329  ToDo: 220
+22:37:36: Done: 324 http://civilization.itgo.com/cgi-bin/css/new_style.css?partner=itgo.com Success
+22:37:36: Downloading: 45 http://civilization.itgo.com/eshoplogo.jpg
+22:37:36: Count: 333  ToDo: 223
+22:37:36: Done: 41 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map1 Success
+22:37:36: Count: 333
+22:37:36: HTML: 42
+22:37:36: Downloading: 46 http://civilization.itgo.com/pontilhado_meio1.gif
+22:37:36: Count: 333  ToDo: 222
+22:37:36: Done: 42 http://civilization.itgo.com/celeiro.gif Success
+22:37:36: Count: 333
+22:37:36: HTML: 43
+22:37:36: Downloading: 47 http://civilization.itgo.com/G0100250.gif
+22:37:36: Count: 333  ToDo: 221
+22:37:36: Done: 44 http://c1.thecounter.com/id=140476 CantResolve
+22:37:36: CheckConnection: Can't Resolve (Host not found) http://c1.thecounter.com/id=140476
+22:37:36: LastError: 11001
+22:37:36: Downloading: 48 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map2
+22:37:36: Count: 333  ToDo: 220
+22:37:36: Done: 43 http://civilization.itgo.com/empceleiro.jpg Success
+22:37:36: Count: 333
+22:37:36: HTML: 44
+22:37:36: Count: 333
+22:37:36: HTML: 45
+22:37:36: Downloading: 49 http://civilization.itgo.com/scenariocontest.jpg
+22:37:36: Count: 333  ToDo: 219
+22:37:36: Done: 46 http://civilization.itgo.com/pontilhado_meio1.gif Success
+22:37:36: Downloading: 50 http://civilization.itgo.com/pontilhado_meio2.gif
+22:37:36: Count: 333  ToDo: 218
+22:37:36: Done: 45 http://civilization.itgo.com/eshoplogo.jpg Success
+22:37:36: Count: 333
+22:37:36: HTML: 46
+22:37:36: Count: 333
+22:37:36: HTML: 47
+22:37:36: Downloading: 51 http://civilization.itgo.com/dicas/aoebackground.gif
+22:37:36: Count: 333  ToDo: 217
+22:37:36: Done: 47 http://civilization.itgo.com/G0100250.gif Success
+22:37:36: Count: 333
+22:37:36: HTML: 48
+22:37:36: Downloading: 52 http://civilization.itgo.com/jogadores/grandesjogadas/HordaCB_AM_r1_HordaxNDS.zip
+22:37:36: Count: 333  ToDo: 216
+22:37:36: Done: 49 http://civilization.itgo.com/scenariocontest.jpg Success
+22:37:36: Downloading: 53 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_BAr2_TKOxWD.zip
+22:37:36: Count: 333  ToDo: 215
+22:37:37: Done: 48 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map2 Success
+22:37:37: Count: 333
+22:37:37: HTML: 49
+22:37:37: Count: 333
+22:37:37: HTML: 50
+22:37:37: Downloading: 54 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PAr2_FOXxNDS.zip
+22:37:37: Count: 333  ToDo: 214
+22:37:37: Done: 50 http://civilization.itgo.com/pontilhado_meio2.gif Success
+22:37:37: Count: 333
+22:37:37: HTML: 51
+22:37:37: Downloading: 55 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PIr2_FOXxTWG.zip
+22:37:37: Count: 333  ToDo: 213
+22:37:37: Done: 51 http://civilization.itgo.com/dicas/aoebackground.gif Success
+22:37:37: Count: 333
+22:37:37: HTML: 52
+22:37:37: Downloading: 56 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_RJr2_TBExTKO.zip
+22:37:37: Count: 333  ToDo: 212
+22:37:37: Done: 53 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_BAr2_TKOxWD.zip Failed
+22:37:37: : Fail http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_BAr2_TKOxWD.zip
+22:37:37: 404: Not Found
+22:37:37: LastError: 0 No Error
+22:37:37: Downloading: 58 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map3
+22:37:37: Count: 333  ToDo: 211
+22:37:38: Done: 56 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_RJr2_TBExTKO.zip Failed
+22:37:38: : Fail http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_RJr2_TBExTKO.zip
+22:37:38: 404: Not Found
+22:37:38: LastError: 0 No Error
+22:37:38: Downloading: 59 http://civilization.itgo.com/chatlogo.gif
+22:37:38: Count: 333  ToDo: 210
+22:37:38: Done: 58 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map3 Success
+22:37:38: Downloading: 60 http://civilization.itgo.com/votage.jpg
+22:37:38: Count: 333  ToDo: 209
+22:37:38: Done: 59 http://civilization.itgo.com/chatlogo.gif Success
+22:37:38: Downloading: 62 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map4
+22:37:38: Count: 333  ToDo: 208
+22:37:38: Done: 52 http://civilization.itgo.com/jogadores/grandesjogadas/HordaCB_AM_r1_HordaxNDS.zip Success
+22:37:38: Count: 333
+22:37:38: HTML: 53
+22:37:38: Count: 333
+22:37:38: HTML: 54
+22:37:38: Downloading: 63 http://civilization.itgo.com/AL.gif
+22:37:38: Count: 333  ToDo: 207
+22:37:39: Done: 60 http://civilization.itgo.com/votage.jpg Success
+22:37:39: Downloading: 64 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map5
+22:37:39: Count: 333  ToDo: 206
+22:37:39: Done: 54 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PAr2_FOXxNDS.zip Success
+22:37:39: Done: 63 http://civilization.itgo.com/AL.gif Success
+22:37:39: Done: 55 http://civilization.itgo.com/jogadores/grandesjogadas/TBECB_PIr2_FOXxTWG.zip Success
+22:37:40: Done: 62 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map4 Success
+22:37:40: Done: 64 http://civilization.itgo.com/_vti_bin/shtml.exe/index.htm/map5 Success
+22:37:40: Count: 333
+22:37:40: HTML: 55
+22:37:40: Count: 333
+22:37:40: HTML: 56
+22:37:40: Count: 333
+22:37:40: HTML: 57
+22:37:40: Count: 333
+22:37:40: HTML: 58
+22:37:40: Count: 333
+22:37:40: HTML: 59
+22:37:40: Count: 333
+22:37:40: HTML: 60
+22:37:40: Count: 333
+22:37:40: HTML: 61
+22:37:40: Count: 333
+22:37:40: HTML: 62
+22:37:40: Count: 333
+22:37:40: HTML: 63
+22:37:40: Count: 333
+22:37:40: HTML: 64
+22:37:40: Count: 333
+22:37:40: HTML: 65
+22:37:40: Downloading: 65 http://civilization.itgo.com/clas.jpg
+22:37:40: Count: 333  ToDo: 201
+22:37:40: Downloading: 66 http://civilization.itgo.com/downloads/aoe/aoehead.gif
+22:37:40: Count: 333  ToDo: 201
+22:37:40: Downloading: 67 http://civilization.itgo.com/www.imlclan.cjb.net
+22:37:40: Count: 333  ToDo: 201
+22:37:40: Downloading: 68 http://civilization.itgo.com/papyrus.zip
+22:37:40: Count: 333  ToDo: 201
+22:37:40: Downloading: 69 http://civilization.itgo.com/fs_img/js/pt.js
+22:37:40: Count: 333  ToDo: 201
+22:37:40: Done: 65 http://civilization.itgo.com/clas.jpg Success
+22:37:40: Done: 66 http://civilization.itgo.com/downloads/aoe/aoehead.gif Success
+22:37:40: Done: 69 http://civilization.itgo.com/fs_img/js/pt.js Success
+22:37:41: Count: 337
+22:37:41: HTML: 66
+22:37:41: Count: 337
+22:37:41: HTML: 67
+22:37:41: Downloading: 70 http://enquete.zaz.com.br/cgi-bin/enquete.pl
+22:37:41: Count: 337  ToDo: 202
+22:37:41: Downloading: 71 http://civilization.itgo.com/mailto:berthold@zaz.com.br
+22:37:41: Count: 337  ToDo: 202
+22:37:41: Downloading: 76 http://civilization.itgo.com/clan/pontilhado_menu.gif
+22:37:41: Count: 337  ToDo: 202
+22:37:41: Done: 67 http://civilization.itgo.com/www.imlclan.cjb.net Failed
+22:37:41: : Fail http://civilization.itgo.com/www.imlclan.cjb.net
+22:37:41: 404: Not Found
+22:37:41: LastError: 0 No Error
+22:37:41: Count: 337
+22:37:41: HTML: 68
+22:37:41: Downloading: 78 http://civilization.itgo.com/clan/figclan.jpg
+22:37:41: Count: 337  ToDo: 201
+22:37:41: Done: 70 http://enquete.zaz.com.br/cgi-bin/enquete.pl CantResolve
+22:37:41: CheckConnection: Can't Resolve (Host not found) http://enquete.zaz.com.br/cgi-bin/enquete.pl
+22:37:41: LastError: 11001
+22:37:41: Downloading: 94 http://civilization.itgo.com/historico/historicologo.jpg
+22:37:41: Count: 337  ToDo: 200
+22:37:41: Done: 78 http://civilization.itgo.com/clan/figclan.jpg Success
+22:37:41: Done: 94 http://civilization.itgo.com/historico/historicologo.jpg Success
+22:37:41: Downloading: 97 http://civilization.itgo.com/alianca/empalliance.jpg
+22:37:41: Count: 337  ToDo: 198
+22:37:41: Downloading: 98 http://civilization.itgo.com/jogadores/mailto:berthold@zaz.com.br
+22:37:41: Count: 337  ToDo: 198
+22:37:41: Done: 71 http://civilization.itgo.com/mailto:berthold@zaz.com.br Failed
+22:37:41: : Fail http://civilization.itgo.com/mailto:berthold@zaz.com.br
+22:37:41: 404: Not Found
+22:37:41: LastError: 0 No Error
+22:37:41: Downloading: 103 http://civilization.itgo.com/dicas/pontilhado_menu.gif
+22:37:41: Count: 337  ToDo: 197
+22:37:41: Done: 76 http://civilization.itgo.com/clan/pontilhado_menu.gif Failed
+22:37:41: : Fail http://civilization.itgo.com/clan/pontilhado_menu.gif
+22:37:41: 404: Not Found
+22:37:41: LastError: 0 No Error
+22:37:41: Downloading: 106 http://civilization.itgo.com/dicas/aoe/sm-xpackwall.jpg
+22:37:41: Count: 337  ToDo: 196
+22:37:41: Done: 68 http://civilization.itgo.com/papyrus.zip Success
+22:37:42: Count: 337
+22:37:42: HTML: 69
+22:37:42: Count: 337
+22:37:42: HTML: 70
+22:37:42: Count: 337
+22:37:42: HTML: 71
+22:37:42: Count: 337
+22:37:42: HTML: 72
+22:37:42: Count: 337
+22:37:42: HTML: 73
+22:37:42: Count: 337
+22:37:42: HTML: 74
+22:37:42: Count: 337
+22:37:42: HTML: 75
+22:37:42: Count: 337
+22:37:42: HTML: 76
+22:37:42: Count: 337
+22:37:42: HTML: 77
+22:37:42: Count: 337
+22:37:42: HTML: 78
+22:37:42: Count: 337
+22:37:42: HTML: 79
+22:37:42: Count: 337
+22:37:42: HTML: 80
+22:37:42: Count: 337
+22:37:42: HTML: 81
+22:37:42: Count: 337
+22:37:42: HTML: 82
+22:37:42: Count: 337
+22:37:42: HTML: 83
+22:37:42: Count: 337
+22:37:42: HTML: 84
+22:37:42: Count: 337
+22:37:42: HTML: 85
+22:37:42: Count: 337
+22:37:42: HTML: 86
+22:37:42: Count: 337
+22:37:42: HTML: 87
+22:37:42: Count: 337
+22:37:42: HTML: 88
+22:37:42: Count: 337
+22:37:42: HTML: 89
+22:37:42: Count: 337
+22:37:42: HTML: 90
+22:37:42: Count: 337
+22:37:42: HTML: 91
+22:37:42: Count: 337
+22:37:42: HTML: 92
+22:37:42: Count: 337
+22:37:42: HTML: 93
+22:37:42: Count: 337
+22:37:42: HTML: 94
+22:37:42: Count: 337
+22:37:42: HTML: 95
+22:37:42: Count: 337
+22:37:42: HTML: 96
+22:37:42: Count: 337
+22:37:42: HTML: 97
+22:37:42: Downloading: 107 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map
+22:37:42: Count: 337  ToDo: 195
+22:37:42: Done: 97 http://civilization.itgo.com/alianca/empalliance.jpg Success
+22:37:42: Count: 337
+22:37:42: HTML: 98
+22:37:42: Downloading: 108 http://civilization.itgo.com/dicas/aoecaixa.jpg
+22:37:42: Count: 337  ToDo: 194
+22:37:42: Done: 98 http://civilization.itgo.com/jogadores/mailto:berthold@zaz.com.br Failed
+22:37:42: : Fail http://civilization.itgo.com/jogadores/mailto:berthold@zaz.com.br
+22:37:42: 404: Not Found
+22:37:42: LastError: 0 No Error
+22:37:42: Count: 337
+22:37:42: HTML: 99
+22:37:42: Count: 337
+22:37:42: HTML: 100
+22:37:42: Count: 337
+22:37:42: HTML: 101
+22:37:42: Count: 337
+22:37:42: HTML: 102
+22:37:42: Count: 337
+22:37:42: HTML: 103
+22:37:42: Downloading: 110 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map1
+22:37:42: Count: 337  ToDo: 193
+22:37:42: Done: 106 http://civilization.itgo.com/dicas/aoe/sm-xpackwall.jpg Failed
+22:37:42: : Fail http://civilization.itgo.com/dicas/aoe/sm-xpackwall.jpg
+22:37:42: 404: Not Found
+22:37:42: LastError: 0 No Error
+22:37:42: Downloading: 111 http://civilization.itgo.com/dicas/aoe/pedraicon.gif
+22:37:42: Count: 337  ToDo: 192
+22:37:42: Done: 103 http://civilization.itgo.com/dicas/pontilhado_menu.gif Failed
+22:37:42: : Fail http://civilization.itgo.com/dicas/pontilhado_menu.gif
+22:37:42: 404: Not Found
+22:37:42: LastError: 0 No Error
+22:37:42: Count: 337
+22:37:42: HTML: 104
+22:37:42: Count: 337
+22:37:43: HTML: 105
+22:37:43: Count: 337
+22:37:43: HTML: 106
+22:37:43: Count: 337
+22:37:43: HTML: 107
+22:37:43: Downloading: 113 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map2
+22:37:43: Count: 337  ToDo: 191
+22:37:43: Done: 108 http://civilization.itgo.com/dicas/aoecaixa.jpg Success
+22:37:43: Downloading: 114 http://civilization.itgo.com/dicas/aoe/toolicon.jpg
+22:37:43: Count: 337  ToDo: 190
+22:37:43: Done: 107 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map Success
+22:37:43: Count: 337
+22:37:43: HTML: 108
+22:37:43: Count: 337
+22:37:43: HTML: 109
+22:37:43: Count: 337
+22:37:43: HTML: 110
+22:37:43: Downloading: 116 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map3
+22:37:43: Count: 337  ToDo: 189
+22:37:43: Done: 113 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map2 Success
+22:37:43: Downloading: 117 http://civilization.itgo.com/dicas/aoe/bronzeicon.jpg
+22:37:43: Count: 337  ToDo: 188
+22:37:43: Done: 110 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map1 Success
+22:37:43: Count: 337
+22:37:43: HTML: 111
+22:37:43: Downloading: 119 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map4
+22:37:43: Count: 337  ToDo: 187
+22:37:44: Done: 114 http://civilization.itgo.com/dicas/aoe/toolicon.jpg Success
+22:37:44: Downloading: 120 http://civilization.itgo.com/dicas/aoe/ironicon.jpg
+22:37:44: Count: 337  ToDo: 186
+22:37:44: Done: 111 http://civilization.itgo.com/dicas/aoe/pedraicon.gif Success
+22:37:44: Count: 337
+22:37:44: HTML: 112
+22:37:44: Count: 337
+22:37:44: HTML: 113
+22:37:44: Count: 337
+22:37:44: HTML: 114
+22:37:44: Count: 337
+22:37:44: HTML: 115
+22:37:44: Count: 337
+22:37:44: HTML: 116
+22:37:44: Downloading: 121 http://civilization.itgo.com/dicas/aoerorbackground.jpg
+22:37:44: Count: 337  ToDo: 185
+22:37:44: Done: 117 http://civilization.itgo.com/dicas/aoe/bronzeicon.jpg Success
+22:37:44: Downloading: 124 http://civilization.itgo.com/dicas/aoeror/sm-xpackwall.jpg
+22:37:44: Count: 337  ToDo: 184
+22:37:44: Done: 116 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map3 Success
+22:37:44: Count: 337
+22:37:44: HTML: 117
+22:37:44: Count: 337
+22:37:44: HTML: 118
+22:37:44: Count: 337
+22:37:44: HTML: 119
+22:37:44: Downloading: 125 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoeror/index.htm/map
+22:37:44: Count: 337  ToDo: 183
+22:37:44: Done: 120 http://civilization.itgo.com/dicas/aoe/ironicon.jpg Success
+22:37:44: Downloading: 126 http://civilization.itgo.com/dicas/aoerorcaixa.jpg
+22:37:44: Count: 337  ToDo: 182
+22:37:44: Done: 121 http://civilization.itgo.com/dicas/aoerorbackground.jpg Success
+22:37:44: Downloading: 127 http://civilization.itgo.com/dicas/aoe2background.jpg
+22:37:44: Count: 337  ToDo: 181
+22:37:44: Done: 119 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/index.htm/map4 Success
+22:37:44: Count: 337
+22:37:44: HTML: 120
+22:37:44: Count: 337
+22:37:44: HTML: 121
+22:37:44: Count: 337
+22:37:44: HTML: 122
+22:37:44: Count: 337
+22:37:44: HTML: 123
+22:37:44: Count: 337
+22:37:44: HTML: 124
+22:37:44: Downloading: 130 http://civilization.itgo.com/dicas/aok/sm-xpackwall.jpg
+22:37:44: Count: 337  ToDo: 180
+22:37:44: Done: 124 http://civilization.itgo.com/dicas/aoeror/sm-xpackwall.jpg Success
+22:37:44: Count: 337
+22:37:44: HTML: 125
+22:37:44: Downloading: 131 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aok/index.htm/map
+22:37:44: Count: 337  ToDo: 179
+22:37:45: Done: 126 http://civilization.itgo.com/dicas/aoerorcaixa.jpg Success
+22:37:45: Downloading: 132 http://civilization.itgo.com/dicas/age2caixa.gif
+22:37:45: Count: 337  ToDo: 178
+22:37:45: Done: 127 http://civilization.itgo.com/dicas/aoe2background.jpg Success
+22:37:45: Downloading: 133 http://civilization.itgo.com/dicas/aok/darkageicon.jpg
+22:37:45: Count: 337  ToDo: 177
+22:37:45: Done: 125 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoeror/index.htm/map Success
+22:37:45: Count: 337
+22:37:45: HTML: 126
+22:37:45: Count: 337
+22:37:45: HTML: 127
+22:37:45: Count: 337
+22:37:45: HTML: 128
+22:37:45: Count: 337
+22:37:45: HTML: 129
+22:37:45: Count: 337
+22:37:45: HTML: 130
+22:37:45: Downloading: 134 http://civilization.itgo.com/dicas/aok/feudalageicon.jpg
+22:37:45: Count: 337  ToDo: 176
+22:37:45: Done: 130 http://civilization.itgo.com/dicas/aok/sm-xpackwall.jpg Failed
+22:37:45: : Fail http://civilization.itgo.com/dicas/aok/sm-xpackwall.jpg
+22:37:45: 404: Not Found
+22:37:45: LastError: 0 No Error
+22:37:45: Count: 337
+22:37:45: HTML: 131
+22:37:45: Downloading: 135 http://civilization.itgo.com/dicas/aok/castleageicon.jpg
+22:37:45: Count: 337  ToDo: 175
+22:37:45: Done: 132 http://civilization.itgo.com/dicas/age2caixa.gif Success
+22:37:45: Downloading: 136 http://civilization.itgo.com/dicas/aok/imperialageicon.jpg
+22:37:45: Count: 337  ToDo: 174
+22:37:45: Done: 133 http://civilization.itgo.com/dicas/aok/darkageicon.jpg Success
+22:37:45: Downloading: 139 http://civilization.itgo.com/screenshots/ss_s_3.gif
+22:37:45: Count: 337  ToDo: 173
+22:37:45: Done: 131 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aok/index.htm/map Success
+22:37:45: Count: 337
+22:37:45: HTML: 132
+22:37:45: Count: 337
+22:37:45: HTML: 133
+22:37:45: Count: 337
+22:37:45: HTML: 134
+22:37:45: Downloading: 140 http://civilization.itgo.com/screenshots/ss_s_2.gif
+22:37:45: Count: 337  ToDo: 172
+22:37:45: Done: 134 http://civilization.itgo.com/dicas/aok/feudalageicon.jpg Success
+22:37:45: Count: 337
+22:37:45: HTML: 135
+22:37:45: Downloading: 141 http://civilization.itgo.com/screenshots/ss_s_41.gif
+22:37:45: Count: 337  ToDo: 171
+22:37:45: Done: 135 http://civilization.itgo.com/dicas/aok/castleageicon.jpg Success
+22:37:45: Count: 337
+22:37:45: HTML: 136
+22:37:45: Downloading: 142 http://civilization.itgo.com/screenshots/ss_s_4.gif
+22:37:45: Count: 337  ToDo: 170
+22:37:46: Done: 136 http://civilization.itgo.com/dicas/aok/imperialageicon.jpg Success
+22:37:46: Count: 337
+22:37:46: HTML: 137
+22:37:46: Count: 337
+22:37:46: HTML: 138
+22:37:46: Count: 337
+22:37:46: HTML: 139
+22:37:46: Downloading: 143 http://civilization.itgo.com/screenshots/ss_s_40.gif
+22:37:46: Count: 337  ToDo: 169
+22:37:46: Done: 139 http://civilization.itgo.com/screenshots/ss_s_3.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 140
+22:37:46: Downloading: 144 http://civilization.itgo.com/screenshots/ss_s_9.gif
+22:37:46: Count: 337  ToDo: 168
+22:37:46: Done: 140 http://civilization.itgo.com/screenshots/ss_s_2.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 141
+22:37:46: Downloading: 145 http://civilization.itgo.com/screenshots/ss_s_13.gif
+22:37:46: Count: 337  ToDo: 167
+22:37:46: Done: 141 http://civilization.itgo.com/screenshots/ss_s_41.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 142
+22:37:46: Downloading: 146 http://civilization.itgo.com/screenshots/ss_s_14.gif
+22:37:46: Count: 337  ToDo: 166
+22:37:46: Done: 142 http://civilization.itgo.com/screenshots/ss_s_4.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 143
+22:37:46: Downloading: 147 http://civilization.itgo.com/screenshots/ss_s_34.gif
+22:37:46: Count: 337  ToDo: 165
+22:37:46: Done: 143 http://civilization.itgo.com/screenshots/ss_s_40.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 144
+22:37:46: Downloading: 148 http://civilization.itgo.com/screenshots/ss_s_32.gif
+22:37:46: Count: 337  ToDo: 164
+22:37:46: Done: 144 http://civilization.itgo.com/screenshots/ss_s_9.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 145
+22:37:46: Downloading: 149 http://civilization.itgo.com/screenshots/ss_s_30.gif
+22:37:46: Count: 337  ToDo: 163
+22:37:46: Done: 145 http://civilization.itgo.com/screenshots/ss_s_13.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 146
+22:37:46: Downloading: 150 http://civilization.itgo.com/screenshots/ss_s_26.gif
+22:37:46: Count: 337  ToDo: 162
+22:37:46: Done: 146 http://civilization.itgo.com/screenshots/ss_s_14.gif Success
+22:37:46: Count: 337
+22:37:46: HTML: 147
+22:37:46: Downloading: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:37:46: Count: 337  ToDo: 161
+22:37:47: Done: 147 http://civilization.itgo.com/screenshots/ss_s_34.gif Success
+22:37:47: Count: 337
+22:37:47: HTML: 148
+22:37:47: Downloading: 152 http://civilization.itgo.com/COM/volano/VolanoChat.cab
+22:37:47: Count: 337  ToDo: 160
+22:37:47: Done: 149 http://civilization.itgo.com/screenshots/ss_s_30.gif Success
+22:37:47: Downloading: 155 http://images.bravenet.com/brpics/spacer.gif
+22:37:47: Count: 337  ToDo: 159
+22:37:47: Done: 148 http://civilization.itgo.com/screenshots/ss_s_32.gif Success
+22:37:47: Count: 337
+22:37:47: HTML: 149
+22:37:47: Count: 337
+22:37:47: HTML: 150
+22:37:47: Downloading: 156 http://images.bravenet.com/brpics/buttonxch/bnetpro.gif
+22:37:47: Count: 337  ToDo: 158
+22:37:47: Done: 150 http://civilization.itgo.com/screenshots/ss_s_26.gif Success
+22:37:47: Count: 337
+22:37:47: HTML: 151
+22:37:47: Downloading: 157 http://images.bravenet.com/brpics/bravenettools2.gif
+22:37:47: Count: 337  ToDo: 157
+22:37:47: Done: 152 http://civilization.itgo.com/COM/volano/VolanoChat.cab Failed
+22:37:47: : Fail http://civilization.itgo.com/COM/volano/VolanoChat.cab
+22:37:47: 404: Not Found
+22:37:47: LastError: 0 No Error
+22:37:47: Downloading: 158 http://chat1.bravenet.com/vcclient
+22:37:47: Count: 337  ToDo: 156
+22:37:48: Done: 157 http://images.bravenet.com/brpics/bravenettools2.gif Failed
+22:37:48: : Fail http://images.bravenet.com/brpics/bravenettools2.gif
+22:37:48: 404: Not Found
+22:37:48: LastError: 0 No Error
+22:37:48: Done: 155 http://images.bravenet.com/brpics/spacer.gif Success
+22:37:48: Done: 156 http://images.bravenet.com/brpics/buttonxch/bnetpro.gif Failed
+22:37:48: : Fail http://images.bravenet.com/brpics/buttonxch/bnetpro.gif
+22:37:48: 404: Not Found
+22:37:48: LastError: 0 No Error
+22:37:48: Downloading: 159 http://civilization.itgo.com/COM/volano/VolanoChat.jar
+22:37:48: Count: 337  ToDo: 153
+22:37:48: Downloading: 160 http://civilization.itgo.com/COM.volano.VolanoChat.class
+22:37:48: Count: 337  ToDo: 153
+22:37:48: Downloading: 161 http://civilization.itgo.com/_vti_bin/shtml.exe/anuncie.htm/map
+22:37:48: Count: 337  ToDo: 153
+22:37:49: Done: 161 http://civilization.itgo.com/_vti_bin/shtml.exe/anuncie.htm/map Success
+22:37:49: Downloading: 162 http://civilization.itgo.com/microsoft_234x60_age.gif
+22:37:49: Count: 337  ToDo: 152
+22:37:49: Done: 162 http://civilization.itgo.com/microsoft_234x60_age.gif Success
+22:37:49: Downloading: 166 http://civilization.itgo.com/killxpersarts/wvlogo.gif
+22:37:49: Count: 337  ToDo: 151
+22:37:49: Done: 159 http://civilization.itgo.com/COM/volano/VolanoChat.jar Failed
+22:37:49: : Fail http://civilization.itgo.com/COM/volano/VolanoChat.jar
+22:37:49: 404: Not Found
+22:37:49: LastError: 0 No Error
+22:37:49: Downloading: 167 http://civilization.itgo.com/killxpersarts/Espiral_vermelha.gif
+22:37:49: Count: 337  ToDo: 150
+22:37:50: Done: 166 http://civilization.itgo.com/killxpersarts/wvlogo.gif Success
+22:37:50: Downloading: 169 http://civilization.itgo.com/killxpersarts/mailto:berthold@zaz.com.br
+22:37:50: Count: 337  ToDo: 149
+22:37:50: Done: 167 http://civilization.itgo.com/killxpersarts/Espiral_vermelha.gif Success
+22:37:50: Downloading: 171 http://civilization.itgo.com/icons/blank.gif
+22:37:50: Count: 337  ToDo: 148
+22:37:50: Done: 171 http://civilization.itgo.com/icons/blank.gif Success
+22:37:50: Downloading: 175 http://civilization.itgo.com/icons/back.gif
+22:37:50: Count: 337  ToDo: 147
+22:37:51: Done: 175 http://civilization.itgo.com/icons/back.gif Success
+22:37:51: Downloading: 176 http://civilization.itgo.com/icons/text.gif
+22:37:51: Count: 337  ToDo: 146
+22:37:51: Done: 176 http://civilization.itgo.com/icons/text.gif Success
+22:37:51: Downloading: 177 http://civilization.itgo.com/icons/image2.gif
+22:37:51: Count: 337  ToDo: 145
+22:37:51: Done: 169 http://civilization.itgo.com/killxpersarts/mailto:berthold@zaz.com.br Failed
+22:37:51: : Fail http://civilization.itgo.com/killxpersarts/mailto:berthold@zaz.com.br
+22:37:51: 404: Not Found
+22:37:51: LastError: 0 No Error
+22:37:51: Downloading: 178 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_13.gif
+22:37:51: Count: 337  ToDo: 144
+22:37:52: Done: 177 http://civilization.itgo.com/icons/image2.gif Success
+22:37:52: Downloading: 179 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_14.gif
+22:37:52: Count: 337  ToDo: 143
+22:37:52: Done: 178 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_13.gif Success
+22:37:52: Downloading: 337 http://civilization.itgo.com/cgi-bin/i/screenshots/
+22:37:52: Count: 340  ToDo: 145
+22:37:52: Done: 179 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_14.gif Success
+22:37:52: Downloading: 338 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447073
+22:37:52: Count: 342  ToDo: 146
+22:37:52: Done: 337 http://civilization.itgo.com/cgi-bin/i/screenshots/ Success
+22:37:52: Downloading: 339 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447073
+22:37:52: Count: 342  ToDo: 145
+22:37:53: Done: 338 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447073 Success
+22:37:53: Downloading: 340 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447074
+22:37:53: Count: 342  ToDo: 144
+22:37:53: Done: 339 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447073 Success
+22:37:53: Downloading: 341 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447074
+22:37:53: Count: 342  ToDo: 143
+22:37:53: Done: 160 http://civilization.itgo.com/COM.volano.VolanoChat.class Failed
+22:37:53: : Fail http://civilization.itgo.com/COM.volano.VolanoChat.class
+22:37:53: 404: Not Found
+22:37:53: LastError: 0 No Error
+22:37:53: Downloading: 180 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_2.gif
+22:37:53: Count: 342  ToDo: 142
+22:37:53: Done: 340 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447074 Success
+22:37:53: Downloading: 181 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_26.gif
+22:37:53: Count: 342  ToDo: 141
+22:37:53: Done: 341 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447074 Success
+22:37:53: Downloading: 182 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_3.gif
+22:37:53: Count: 342  ToDo: 140
+22:37:53: Done: 180 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_2.gif Success
+22:37:53: Downloading: 342 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447075
+22:37:53: Count: 344  ToDo: 141
+22:37:54: Done: 181 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_26.gif Success
+22:37:54: Downloading: 343 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447075
+22:37:54: Count: 344  ToDo: 140
+22:37:54: Done: 182 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_3.gif Success
+22:37:54: Downloading: 183 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_30.gif
+22:37:54: Count: 344  ToDo: 139
+22:37:54: Done: 342 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447075 Success
+22:37:54: Downloading: 184 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_32.gif
+22:37:54: Count: 344  ToDo: 138
+22:37:54: Done: 343 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447075 Success
+22:37:54: Downloading: 185 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_34.gif
+22:37:54: Count: 344  ToDo: 137
+22:37:54: Done: 183 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_30.gif Success
+22:37:54: Downloading: 186 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_4.gif
+22:37:54: Count: 344  ToDo: 136
+22:37:54: Done: 184 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_32.gif Success
+22:37:54: Downloading: 187 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_40.gif
+22:37:54: Count: 344  ToDo: 135
+22:37:55: Done: 185 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_34.gif Success
+22:37:55: Downloading: 344 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447076
+22:37:55: Count: 346  ToDo: 136
+22:37:55: Done: 187 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_40.gif Success
+22:37:55: Downloading: 345 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447076
+22:37:55: Count: 346  ToDo: 135
+22:37:55: Done: 344 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447076 Success
+22:37:55: Downloading: 188 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_41.gif
+22:37:55: Count: 346  ToDo: 134
+22:37:55: Done: 345 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447076 Success
+22:37:55: Downloading: 189 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_9.gif
+22:37:55: Count: 346  ToDo: 133
+22:37:56: Done: 186 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_4.gif Success
+22:37:56: Downloading: 192 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map
+22:37:56: Count: 346  ToDo: 132
+22:37:57: Done: 192 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map Success
+22:37:57: Downloading: 193 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map1
+22:37:57: Count: 346  ToDo: 131
+22:37:57: Done: 189 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_9.gif Success
+22:37:57: Done: 188 http://civilization.itgo.com/cgi-bin/i/screenshots/ss_s_41.gif Success
+22:37:57: Downloading: 346 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447077
+22:37:57: Count: 348  ToDo: 131
+22:37:57: Downloading: 347 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447077
+22:37:57: Count: 348  ToDo: 131
+22:37:57: Done: 346 http://uol-d.openx.net/w/1.0/afr?auid=538771292&cb=1510447077 Success
+22:37:57: Done: 347 http://uol-d.openx.net/w/1.0/ai?auid=538771292&cs=112cbf23dd&cb=1510447077 Success
+22:37:57: Downloading: 194 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map2
+22:37:57: Count: 348  ToDo: 129
+22:37:57: Downloading: 195 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map3
+22:37:57: Count: 348  ToDo: 129
+22:37:58: Done: 193 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map1 Success
+22:37:58: Downloading: 196 http://civilization.itgo.com/historico/mailto:berthold@zaz.com.br
+22:37:58: Count: 348  ToDo: 128
+22:37:58: Done: 196 http://civilization.itgo.com/historico/mailto:berthold@zaz.com.br Failed
+22:37:58: : Fail http://civilization.itgo.com/historico/mailto:berthold@zaz.com.br
+22:37:58: 404: Not Found
+22:37:58: LastError: 0 No Error
+22:37:58: Downloading: 199 http://civilization.itgo.com/downloads/pontilhado_menu.gif
+22:37:58: Count: 348  ToDo: 127
+22:37:58: Done: 194 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map2 Success
+22:37:58: Downloading: 200 http://civilization.itgo.com/downloads/aok/empmap_aok.zip
+22:37:58: Count: 348  ToDo: 126
+22:37:58: Done: 195 http://civilization.itgo.com/_vti_bin/shtml.exe/historico/last_index999999.htm/map3 Success
+22:37:58: Downloading: 201 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/msaoe10a.exe
+22:37:58: Count: 348  ToDo: 125
+22:37:59: Done: 199 http://civilization.itgo.com/downloads/pontilhado_menu.gif Failed
+22:37:59: : Fail http://civilization.itgo.com/downloads/pontilhado_menu.gif
+22:37:59: 404: Not Found
+22:37:59: LastError: 0 No Error
+22:37:59: Downloading: 202 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/patch_spl_brz_itl/msaoe10a.exe
+22:37:59: Count: 348  ToDo: 124
+22:37:59: Done: 201 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/msaoe10a.exe Failed
+22:37:59: : Fail http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/msaoe10a.exe
+22:37:59: 404: Not Found
+22:37:59: LastError: 0 No Error
+22:37:59: Downloading: 203 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/MSAoE10B.EXE
+22:37:59: Count: 348  ToDo: 123
+22:37:59: Done: 202 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/patch_spl_brz_itl/msaoe10a.exe Failed
+22:37:59: : Fail http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/patch_spl_brz_itl/msaoe10a.exe
+22:37:59: 404: Not Found
+22:37:59: LastError: 0 No Error
+22:37:59: Downloading: 204 http://civilization.itgo.com/downloads/utilitarios/crackcdb.com
+22:37:59: Count: 348  ToDo: 122
+22:37:59: Done: 203 http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/MSAoE10B.EXE Failed
+22:37:59: : Fail http://civilization.itgo.com/downloads/utilitarios/ftp://ftp.microsoft.com/deskapps/games/public/empires/MSAoE10B.EXE
+22:37:59: 404: Not Found
+22:37:59: LastError: 0 No Error
+22:37:59: Downloading: 205 http://civilization.itgo.com/downloads/utilitarios/AoELaunch.exe
+22:37:59: Count: 348  ToDo: 121
+22:38:00: Done: 204 http://civilization.itgo.com/downloads/utilitarios/crackcdb.com Success
+22:38:00: Downloading: 206 http://civilization.itgo.com/downloads/utilitarios/languagex.dll
+22:38:00: Count: 348  ToDo: 120
+22:38:00: Done: 200 http://civilization.itgo.com/downloads/aok/empmap_aok.zip Success
+22:38:01: Done: 205 http://civilization.itgo.com/downloads/utilitarios/AoELaunch.exe Failed
+22:38:01: : Fail http://civilization.itgo.com/downloads/utilitarios/AoELaunch.exe
+22:38:01: 404: Not Found
+22:38:01: LastError: 0 No Error
+22:38:01: Downloading: 207 http://civilization.itgo.com/dicas/aoe/town_centre.gif
+22:38:01: Count: 348  ToDo: 118
+22:38:01: Downloading: 208 http://civilization.itgo.com/dicas/aoe/aldeao.gif
+22:38:01: Count: 348  ToDo: 118
+22:38:02: Done: 207 http://civilization.itgo.com/dicas/aoe/town_centre.gif Success
+22:38:02: Downloading: 209 http://civilization.itgo.com/dicas/aoe/celeiros.gif
+22:38:02: Count: 348  ToDo: 117
+22:38:02: Done: 208 http://civilization.itgo.com/dicas/aoe/aldeao.gif Success
+22:38:02: Downloading: 210 http://civilization.itgo.com/dicas/aoe/quarteis.gif
+22:38:02: Count: 348  ToDo: 116
+22:38:02: Done: 206 http://civilization.itgo.com/downloads/utilitarios/languagex.dll Success
+22:38:02: Downloading: 211 http://civilization.itgo.com/dicas/aoe/guerreiro_clava.gif
+22:38:02: Count: 348  ToDo: 115
+22:38:02: Done: 209 http://civilization.itgo.com/dicas/aoe/celeiros.gif Success
+22:38:02: Downloading: 212 http://civilization.itgo.com/dicas/aoe/storage_pit.gif
+22:38:02: Count: 348  ToDo: 114
+22:38:03: Done: 211 http://civilization.itgo.com/dicas/aoe/guerreiro_clava.gif Success
+22:38:03: Downloading: 213 http://civilization.itgo.com/dicas/aoe/cais.gif
+22:38:03: Count: 348  ToDo: 113
+22:38:03: Done: 210 http://civilization.itgo.com/dicas/aoe/quarteis.gif Success
+22:38:03: Downloading: 214 http://civilization.itgo.com/dicas/aoe/barco_peskeiro.gif
+22:38:03: Count: 348  ToDo: 112
+22:38:03: Done: 212 http://civilization.itgo.com/dicas/aoe/storage_pit.gif Success
+22:38:03: Downloading: 215 http://civilization.itgo.com/dicas/aoe/barco_mercante.gif
+22:38:03: Count: 348  ToDo: 111
+22:38:03: Done: 213 http://civilization.itgo.com/dicas/aoe/cais.gif Success
+22:38:03: Downloading: 216 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map
+22:38:03: Count: 348  ToDo: 110
+22:38:03: Done: 214 http://civilization.itgo.com/dicas/aoe/barco_peskeiro.gif Success
+22:38:03: Downloading: 217 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map1
+22:38:03: Count: 348  ToDo: 109
+22:38:03: Done: 215 http://civilization.itgo.com/dicas/aoe/barco_mercante.gif Success
+22:38:03: Downloading: 218 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map2
+22:38:03: Count: 348  ToDo: 108
+22:38:04: Done: 216 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map Success
+22:38:04: Downloading: 219 http://civilization.itgo.com/dicas/aoe/homemachado.gif
+22:38:04: Count: 348  ToDo: 107
+22:38:04: Done: 217 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map1 Success
+22:38:04: Done: 218 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/stoneage.htm/map2 Success
+22:38:04: Downloading: 220 http://civilization.itgo.com/dicas/aoe/naviobatedor.gif
+22:38:04: Count: 348  ToDo: 105
+22:38:04: Downloading: 221 http://civilization.itgo.com/dicas/aoe/mercados.gif
+22:38:04: Count: 348  ToDo: 105
+22:38:05: Done: 219 http://civilization.itgo.com/dicas/aoe/homemachado.gif Success
+22:38:05: Downloading: 222 http://civilization.itgo.com/dicas/aoe/archery_range.gif
+22:38:05: Count: 348  ToDo: 104
+22:38:05: Done: 220 http://civilization.itgo.com/dicas/aoe/naviobatedor.gif Success
+22:38:05: Downloading: 223 http://civilization.itgo.com/dicas/aoe/arqueiro.gif
+22:38:05: Count: 348  ToDo: 103
+22:38:05: Done: 221 http://civilization.itgo.com/dicas/aoe/mercados.gif Success
+22:38:05: Downloading: 224 http://civilization.itgo.com/dicas/aoe/estabulos.gif
+22:38:05: Count: 348  ToDo: 102
+22:38:05: Done: 222 http://civilization.itgo.com/dicas/aoe/archery_range.gif Success
+22:38:05: Downloading: 225 http://civilization.itgo.com/dicas/aoe/batedor.gif
+22:38:05: Count: 348  ToDo: 101
+22:38:05: Done: 223 http://civilization.itgo.com/dicas/aoe/arqueiro.gif Success
+22:38:05: Downloading: 226 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map
+22:38:05: Count: 348  ToDo: 100
+22:38:06: Done: 224 http://civilization.itgo.com/dicas/aoe/estabulos.gif Success
+22:38:06: Downloading: 227 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map1
+22:38:06: Count: 348  ToDo: 99
+22:38:06: Done: 225 http://civilization.itgo.com/dicas/aoe/batedor.gif Success
+22:38:06: Downloading: 228 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map2
+22:38:06: Count: 348  ToDo: 98
+22:38:06: Done: 226 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map Success
+22:38:06: Downloading: 229 http://civilization.itgo.com/dicas/aoe/tabciv_aoe.jpg
+22:38:06: Count: 348  ToDo: 97
+22:38:07: Done: 228 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map2 Success
+22:38:07: Downloading: 232 http://civilization.itgo.com/dicas/aoe/pequespadachim.gif
+22:38:07: Count: 348  ToDo: 96
+22:38:07: Done: 227 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/toolage.htm/map1 Success
+22:38:07: Downloading: 233 http://civilization.itgo.com/dicas/aoe/espadachimdefolhalarga.gif
+22:38:07: Count: 348  ToDo: 95
+22:38:07: Done: 232 http://civilization.itgo.com/dicas/aoe/pequespadachim.gif Success
+22:38:07: Downloading: 234 http://civilization.itgo.com/dicas/aoe/naviopesca.gif
+22:38:07: Count: 348  ToDo: 94
+22:38:07: Done: 233 http://civilization.itgo.com/dicas/aoe/espadachimdefolhalarga.gif Success
+22:38:07: Downloading: 235 http://civilization.itgo.com/dicas/aoe/naviomercante.gif
+22:38:07: Count: 348  ToDo: 93
+22:38:08: Done: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class ConnectError
+22:38:08: : Connect Error (Connection timed out): http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:38:08: LastError: 10060
+22:38:08: Downloading: 236 http://civilization.itgo.com/dicas/aoe/galeraguerra.gif
+22:38:08: Count: 348  ToDo: 93
+22:38:08: Done: 234 http://civilization.itgo.com/dicas/aoe/naviopesca.gif Success
+22:38:08: Downloading: 237 http://civilization.itgo.com/dicas/aoe/arqueiroaperfeicoado.gif
+22:38:08: Count: 348  ToDo: 92
+22:38:08: Done: 235 http://civilization.itgo.com/dicas/aoe/naviomercante.gif Success
+22:38:08: Downloading: 238 http://civilization.itgo.com/dicas/aoe/arqueirocomposto.gif
+22:38:08: Count: 348  ToDo: 91
+22:38:08: Done: 229 http://civilization.itgo.com/dicas/aoe/tabciv_aoe.jpg Success
+22:38:08: Downloading: 239 http://civilization.itgo.com/dicas/aoe/arqueirocarruagem.gif
+22:38:08: Count: 348  ToDo: 90
+22:38:08: Done: 158 http://chat1.bravenet.com/vcclient ConnectError
+22:38:08: : Connect Error (Connection timed out): http://chat1.bravenet.com/vcclient
+22:38:08: LastError: 10060
+22:38:08: Downloading: 240 http://civilization.itgo.com/dicas/aoe/cavalaria.gif
+22:38:08: Count: 348  ToDo: 90
+22:38:08: Done: 236 http://civilization.itgo.com/dicas/aoe/galeraguerra.gif Success
+22:38:08: Downloading: 241 http://civilization.itgo.com/dicas/aoe/academia.gif
+22:38:08: Count: 348  ToDo: 89
+22:38:08: Done: 237 http://civilization.itgo.com/dicas/aoe/arqueiroaperfeicoado.gif Success
+22:38:08: Downloading: 242 http://civilization.itgo.com/dicas/aoe/hoplita.gif
+22:38:08: Count: 348  ToDo: 88
+22:38:08: Done: 238 http://civilization.itgo.com/dicas/aoe/arqueirocomposto.gif Success
+22:38:08: Downloading: 243 http://civilization.itgo.com/dicas/aoe/sededogoverno.gif
+22:38:08: Count: 348  ToDo: 87
+22:38:08: Done: 239 http://civilization.itgo.com/dicas/aoe/arqueirocarruagem.gif Success
+22:38:08: Downloading: 244 http://civilization.itgo.com/dicas/aoe/lancapedras.gif
+22:38:08: Count: 348  ToDo: 86
+22:38:09: Done: 240 http://civilization.itgo.com/dicas/aoe/cavalaria.gif Success
+22:38:09: Downloading: 245 http://civilization.itgo.com/dicas/aoe/templo.gif
+22:38:09: Count: 348  ToDo: 85
+22:38:09: Done: 242 http://civilization.itgo.com/dicas/aoe/hoplita.gif Success
+22:38:09: Downloading: 246 http://civilization.itgo.com/dicas/aoe/sacerdote.gif
+22:38:09: Count: 348  ToDo: 84
+22:38:09: Done: 243 http://civilization.itgo.com/dicas/aoe/sededogoverno.gif Success
+22:38:09: Downloading: 247 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map
+22:38:09: Count: 348  ToDo: 83
+22:38:09: Done: 244 http://civilization.itgo.com/dicas/aoe/lancapedras.gif Success
+22:38:09: Downloading: 248 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map1
+22:38:09: Count: 348  ToDo: 82
+22:38:09: Done: 245 http://civilization.itgo.com/dicas/aoe/templo.gif Success
+22:38:09: Done: 246 http://civilization.itgo.com/dicas/aoe/sacerdote.gif Success
+22:38:09: Downloading: 249 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map2
+22:38:09: Count: 348  ToDo: 80
+22:38:09: Downloading: 250 http://civilization.itgo.com/dicas/aoe/longoespadachim.gif
+22:38:09: Count: 348  ToDo: 80
+22:38:09: Done: 241 http://civilization.itgo.com/dicas/aoe/academia.gif Success
+22:38:09: Downloading: 251 http://civilization.itgo.com/dicas/aoe/legiao.gif
+22:38:09: Count: 348  ToDo: 79
+22:38:10: Done: 247 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map Success
+22:38:10: Downloading: 252 http://civilization.itgo.com/dicas/aoe/transportepesado.gif
+22:38:10: Count: 348  ToDo: 78
+22:38:10: Done: 248 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map1 Success
+22:38:10: Downloading: 253 http://civilization.itgo.com/dicas/aoe/trireme.gif
+22:38:10: Count: 348  ToDo: 77
+22:38:10: Done: 251 http://civilization.itgo.com/dicas/aoe/legiao.gif Success
+22:38:10: Downloading: 254 http://civilization.itgo.com/dicas/aoe/triremecatapulta.gif
+22:38:10: Count: 348  ToDo: 76
+22:38:10: Done: 250 http://civilization.itgo.com/dicas/aoe/longoespadachim.gif Success
+22:38:10: Downloading: 255 http://civilization.itgo.com/dicas/aoe/juggernaught.gif
+22:38:10: Count: 348  ToDo: 75
+22:38:10: Done: 249 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/bronzeage.htm/map2 Success
+22:38:10: Downloading: 256 http://civilization.itgo.com/dicas/aoe/arqueirocavalo.gif
+22:38:10: Count: 348  ToDo: 74
+22:38:10: Done: 252 http://civilization.itgo.com/dicas/aoe/transportepesado.gif Success
+22:38:10: Downloading: 257 http://civilization.itgo.com/dicas/aoe/arqueirocavalopesado.gif
+22:38:10: Count: 348  ToDo: 73
+22:38:10: Done: 253 http://civilization.itgo.com/dicas/aoe/trireme.gif Success
+22:38:10: Downloading: 258 http://civilization.itgo.com/dicas/aoe/arqueiroelefante.gif
+22:38:10: Count: 348  ToDo: 72
+22:38:11: Done: 254 http://civilization.itgo.com/dicas/aoe/triremecatapulta.gif Success
+22:38:11: Done: 255 http://civilization.itgo.com/dicas/aoe/juggernaught.gif Success
+22:38:11: Downloading: 259 http://civilization.itgo.com/dicas/aoe/cavalariapesada.gif
+22:38:11: Count: 348  ToDo: 70
+22:38:11: Downloading: 260 http://civilization.itgo.com/dicas/aoe/cataphract.gif
+22:38:11: Count: 348  ToDo: 70
+22:38:11: Done: 256 http://civilization.itgo.com/dicas/aoe/arqueirocavalo.gif Success
+22:38:11: Downloading: 261 http://civilization.itgo.com/dicas/aoe/elefanteguerra.gif
+22:38:11: Count: 348  ToDo: 69
+22:38:11: Done: 257 http://civilization.itgo.com/dicas/aoe/arqueirocavalopesado.gif Success
+22:38:11: Downloading: 262 http://civilization.itgo.com/dicas/aoe/falange.gif
+22:38:11: Count: 348  ToDo: 68
+22:38:11: Done: 258 http://civilization.itgo.com/dicas/aoe/arqueiroelefante.gif Success
+22:38:11: Downloading: 263 http://civilization.itgo.com/dicas/aoe/centuriao.gif
+22:38:11: Count: 348  ToDo: 67
+22:38:11: Done: 260 http://civilization.itgo.com/dicas/aoe/cataphract.gif Success
+22:38:11: Downloading: 264 http://civilization.itgo.com/dicas/aoe/catapulta.gif
+22:38:11: Count: 348  ToDo: 66
+22:38:11: Done: 259 http://civilization.itgo.com/dicas/aoe/cavalariapesada.gif Success
+22:38:11: Downloading: 265 http://civilization.itgo.com/dicas/aoe/catapultarobusta.gif
+22:38:11: Count: 348  ToDo: 65
+22:38:12: Done: 261 http://civilization.itgo.com/dicas/aoe/elefanteguerra.gif Success
+22:38:12: Downloading: 266 http://civilization.itgo.com/dicas/aoe/besta.gif
+22:38:12: Count: 348  ToDo: 64
+22:38:12: Done: 262 http://civilization.itgo.com/dicas/aoe/falange.gif Success
+22:38:12: Downloading: 267 http://civilization.itgo.com/dicas/aoe/helepolis.gif
+22:38:12: Count: 348  ToDo: 63
+22:38:12: Done: 263 http://civilization.itgo.com/dicas/aoe/centuriao.gif Success
+22:38:12: Downloading: 268 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map
+22:38:12: Count: 348  ToDo: 62
+22:38:12: Done: 264 http://civilization.itgo.com/dicas/aoe/catapulta.gif Success
+22:38:12: Downloading: 269 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map1
+22:38:12: Count: 348  ToDo: 61
+22:38:12: Done: 265 http://civilization.itgo.com/dicas/aoe/catapultarobusta.gif Success
+22:38:12: Downloading: 270 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map2
+22:38:12: Count: 348  ToDo: 60
+22:38:13: Done: 266 http://civilization.itgo.com/dicas/aoe/besta.gif Success
+22:38:13: Done: 267 http://civilization.itgo.com/dicas/aoe/helepolis.gif Success
+22:38:13: Done: 268 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map Success
+22:38:13: Downloading: 271 http://civilization.itgo.com/dicas/aoeror/log.gif
+22:38:13: Count: 348  ToDo: 57
+22:38:13: Downloading: 272 http://civilization.itgo.com/dicas/aoeror/mart.gif
+22:38:13: Count: 348  ToDo: 57
+22:38:13: Downloading: 273 http://civilization.itgo.com/dicas/aoeror/med.gif
+22:38:13: Count: 348  ToDo: 57
+22:38:13: Done: 270 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map2 Success
+22:38:13: Done: 269 http://civilization.itgo.com/_vti_bin/shtml.exe/dicas/aoe/ironage.htm/map1 Success
+22:38:13: Downloading: 274 http://civilization.itgo.com/dicas/aoeror/towershield.gif
+22:38:13: Count: 348  ToDo: 55
+22:38:13: Downloading: 275 http://civilization.itgo.com/dicas/aoeror/elephantsm.gif
+22:38:13: Count: 348  ToDo: 55
+22:38:14: Done: 271 http://civilization.itgo.com/dicas/aoeror/log.gif Success
+22:38:14: Done: 273 http://civilization.itgo.com/dicas/aoeror/med.gif Success
+22:38:14: Downloading: 276 http://civilization.itgo.com/dicas/aoeror/camelrender-sm.gif
+22:38:14: Count: 348  ToDo: 53
+22:38:14: Downloading: 277 http://civilization.itgo.com/dicas/aoeror/firesm.gif
+22:38:14: Count: 348  ToDo: 53
+22:38:14: Done: 275 http://civilization.itgo.com/dicas/aoeror/elephantsm.gif Success
+22:38:14: Done: 272 http://civilization.itgo.com/dicas/aoeror/mart.gif Success
+22:38:14: Done: 274 http://civilization.itgo.com/dicas/aoeror/towershield.gif Success
+22:38:14: Downloading: 278 http://civilization.itgo.com/dicas/aoeror/sm-chariot1.gif
+22:38:14: Count: 348  ToDo: 50
+22:38:14: Downloading: 279 http://civilization.itgo.com/dicas/aoeror/slingersm.gif
+22:38:14: Count: 348  ToDo: 50
+22:38:14: Downloading: 280 http://civilization.itgo.com/dicas/aoeror/sm-building_1.gif
+22:38:14: Count: 348  ToDo: 50
+22:38:14: Done: 277 http://civilization.itgo.com/dicas/aoeror/firesm.gif Success
+22:38:14: Downloading: 281 http://civilization.itgo.com/dicas/aoeror/sm-building_2.gif
+22:38:14: Count: 348  ToDo: 49
+22:38:14: Done: 276 http://civilization.itgo.com/dicas/aoeror/camelrender-sm.gif Success
+22:38:14: Downloading: 282 http://civilization.itgo.com/dicas/aoeror/sm-building_3.gif
+22:38:14: Count: 348  ToDo: 48
+22:38:14: Done: 280 http://civilization.itgo.com/dicas/aoeror/sm-building_1.gif Success
+22:38:14: Done: 279 http://civilization.itgo.com/dicas/aoeror/slingersm.gif Success
+22:38:14: Downloading: 283 http://civilization.itgo.com/dicas/aoeror/building-arch1.gif
+22:38:14: Count: 348  ToDo: 46
+22:38:14: Downloading: 284 http://civilization.itgo.com/dicas/aoeror/building-tc1.gif
+22:38:14: Count: 348  ToDo: 46
+22:38:14: Done: 278 http://civilization.itgo.com/dicas/aoeror/sm-chariot1.gif Success
+22:38:14: Downloading: 285 http://civilization.itgo.com/dicas/aoeror/build-storage2.gif
+22:38:14: Count: 348  ToDo: 45
+22:38:15: Done: 281 http://civilization.itgo.com/dicas/aoeror/sm-building_2.gif Success
+22:38:15: Downloading: 286 http://civilization.itgo.com/dicas/aoeror/build-govcenter.gif
+22:38:15: Count: 348  ToDo: 44
+22:38:15: Done: 283 http://civilization.itgo.com/dicas/aoeror/building-arch1.gif Success
+22:38:15: Downloading: 287 http://civilization.itgo.com/dicas/aoeror/building-temple1.gif
+22:38:15: Count: 348  ToDo: 43
+22:38:15: Done: 284 http://civilization.itgo.com/dicas/aoeror/building-tc1.gif Success
+22:38:15: Downloading: 288 http://civilization.itgo.com/dicas/aoeror/building_7.gif
+22:38:15: Count: 348  ToDo: 42
+22:38:15: Done: 285 http://civilization.itgo.com/dicas/aoeror/build-storage2.gif Success
+22:38:15: Downloading: 289 http://civilization.itgo.com/dicas/aoeror/building_8.gif
+22:38:15: Count: 348  ToDo: 41
+22:38:16: Done: 282 http://civilization.itgo.com/dicas/aoeror/sm-building_3.gif Success
+22:38:16: Downloading: 290 http://civilization.itgo.com/dicas/aoeror/buildings-bar1.gif
+22:38:16: Count: 348  ToDo: 40
+22:38:16: Done: 286 http://civilization.itgo.com/dicas/aoeror/build-govcenter.gif Success
+22:38:16: Downloading: 291 http://civilization.itgo.com/dicas/aok/pftepfc.jpg
+22:38:16: Count: 348  ToDo: 39
+22:38:16: Done: 287 http://civilization.itgo.com/dicas/aoeror/building-temple1.gif Success
+22:38:16: Downloading: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:16: Count: 348  ToDo: 38
+22:38:16: Done: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get( CreateError
+22:38:16: : Create Error (No Error): http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:16: LastError: 0
+22:38:16: Downloading: 303 http://uol-d.openx.net/w/1.0/)!==d)){af=G(Y);ad=J(B,{src:af});if(!j.get(
+22:38:16: Count: 348  ToDo: 38
+22:38:16: Done: 288 http://civilization.itgo.com/dicas/aoeror/building_7.gif Success
+22:38:16: Downloading: 304 http://uol-d.openx.net/w/1.0/)){Y.html=Y.html+ad}}if(j.get(
+22:38:16: Count: 348  ToDo: 37
+22:38:16: Done: 289 http://civilization.itgo.com/dicas/aoeror/building_8.gif Success
+22:38:16: Downloading: 305 http://uol-d.openx.net/w/1.0/){V()}ae.onAdUnitRenderStart();if(ae.framed){X(ag,a,j.get(
+22:38:16: Count: 348  ToDo: 36
+22:38:17: Done: 290 http://civilization.itgo.com/dicas/aoeror/buildings-bar1.gif Success
+22:38:17: Downloading: 306 http://uol-d.openx.net/w/1.0/,j.get(
+22:38:17: Count: 348  ToDo: 35
+22:38:17: Done: 305 http://uol-d.openx.net/w/1.0/){V()}ae.onAdUnitRenderStart();if(ae.framed){X(ag,a,j.get( Failed
+22:38:17: : Fail http://uol-d.openx.net/w/1.0/){V()}ae.onAdUnitRenderStart();if(ae.framed){X(ag,a,j.get(
+22:38:17: 404: Object Not Found
+22:38:17: LastError: 0 No Error
+22:38:17: Done: 303 http://uol-d.openx.net/w/1.0/)!==d)){af=G(Y);ad=J(B,{src:af});if(!j.get( Failed
+22:38:17: : Fail http://uol-d.openx.net/w/1.0/)!==d)){af=G(Y);ad=J(B,{src:af});if(!j.get(
+22:38:17: 404: Object Not Found
+22:38:17: LastError: 0 No Error
+22:38:17: Done: 304 http://uol-d.openx.net/w/1.0/)){Y.html=Y.html+ad}}if(j.get( Failed
+22:38:17: : Fail http://uol-d.openx.net/w/1.0/)){Y.html=Y.html+ad}}if(j.get(
+22:38:17: 404: Object Not Found
+22:38:17: LastError: 0 No Error
+22:38:17: Downloading: 307 http://uol-d.openx.net/w/1.0/)||j.get(
+22:38:17: Count: 348  ToDo: 32
+22:38:17: Downloading: 308 http://uol-d.openx.net/w/1.0/),j.get(
+22:38:17: Count: 348  ToDo: 32
+22:38:17: Downloading: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:17: Count: 348  ToDo: 32
+22:38:17: Done: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get( CreateError
+22:38:17: : Create Error (No Error): http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:17: LastError: 0
+22:38:17: Downloading: 310 http://uol-d.openx.net/w/1.0/);Y.dflting=1;ae=g(ai);al=function(){ae();M.onAdRenderFinish(j,Y,ai)}}else{if(j.get(
+22:38:17: Count: 348  ToDo: 32
+22:38:18: Done: 306 http://uol-d.openx.net/w/1.0/,j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/,j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 311 http://uol-d.openx.net/w/1.0/)===d){ak=L}else{if(!M.renderTest){ag=G(Y);ao=J(P,{src:ag,suffix:an})}}if(j.get(
+22:38:18: Count: 348  ToDo: 31
+22:38:18: Done: 307 http://uol-d.openx.net/w/1.0/)||j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/)||j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 312 http://uol-d.openx.net/w/1.0/)+ah+aj;if(ab.isUnfriendlyFramed()&&j.get(
+22:38:18: Count: 348  ToDo: 30
+22:38:18: Done: 310 http://uol-d.openx.net/w/1.0/);Y.dflting=1;ae=g(ai);al=function(){ae();M.onAdRenderFinish(j,Y,ai)}}else{if(j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/);Y.dflting=1;ae=g(ai);al=function(){ae();M.onAdRenderFinish(j,Y,ai)}}else{if(j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 313 http://uol-d.openx.net/w/1.0/)===D){q(ad,am,af,ae,al,an,ai)}else{f(ad,am,af,ae,al,an,ai)}j.set(
+22:38:18: Count: 348  ToDo: 29
+22:38:18: Done: 308 http://uol-d.openx.net/w/1.0/),j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/),j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:18: Count: 348  ToDo: 28
+22:38:18: Done: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get( CreateError
+22:38:18: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:18: LastError: 0
+22:38:18: Downloading: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:18: Count: 348  ToDo: 28
+22:38:18: Done: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get( CreateError
+22:38:18: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:18: LastError: 0
+22:38:18: Downloading: 316 http://uol-d.openx.net/w/1.0/),ag=j.get(
+22:38:18: Count: 348  ToDo: 28
+22:38:18: Done: 311 http://uol-d.openx.net/w/1.0/)===d){ak=L}else{if(!M.renderTest){ag=G(Y);ao=J(P,{src:ag,suffix:an})}}if(j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/)===d){ak=L}else{if(!M.renderTest){ag=G(Y);ao=J(P,{src:ag,suffix:an})}}if(j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 317 http://uol-d.openx.net/w/1.0/),af=j.get(
+22:38:18: Count: 348  ToDo: 27
+22:38:18: Done: 291 http://civilization.itgo.com/dicas/aok/pftepfc.jpg Success
+22:38:18: Done: 312 http://uol-d.openx.net/w/1.0/)+ah+aj;if(ab.isUnfriendlyFramed()&&j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/)+ah+aj;if(ab.isUnfriendlyFramed()&&j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 318 http://uol-d.openx.net/w/1.0/,ah=j.get(
+22:38:18: Count: 348  ToDo: 25
+22:38:18: Downloading: 319 http://uol-d.openx.net/w/1.0/+ab.rand();af=ab.template(Q,{divID:ak})+af;ah+=ab.template(w);j.set(
+22:38:18: Count: 348  ToDo: 25
+22:38:18: Done: 313 http://uol-d.openx.net/w/1.0/)===D){q(ad,am,af,ae,al,an,ai)}else{f(ad,am,af,ae,al,an,ai)}j.set( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/)===D){q(ad,am,af,ae,al,an,ai)}else{f(ad,am,af,ae,al,an,ai)}j.set(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Done: 316 http://uol-d.openx.net/w/1.0/),ag=j.get( Failed
+22:38:18: : Fail http://uol-d.openx.net/w/1.0/),ag=j.get(
+22:38:18: 404: Object Not Found
+22:38:18: LastError: 0 No Error
+22:38:18: Downloading: 320 http://uol-d.openx.net/w/1.0/,af);j.set(
+22:38:18: Count: 348  ToDo: 23
+22:38:18: Downloading: 321 http://uol-d.openx.net/w/1.0/}}catch(ai){}}if(m){return}j.set(
+22:38:18: Count: 348  ToDo: 23
+22:38:19: Done: 317 http://uol-d.openx.net/w/1.0/),af=j.get( Failed
+22:38:19: : Fail http://uol-d.openx.net/w/1.0/),af=j.get(
+22:38:19: 404: Object Not Found
+22:38:19: LastError: 0 No Error
+22:38:19: Downloading: 323 http://civilization.itgo.com/fs_img/js/0.25
+22:38:19: Count: 348  ToDo: 22
+22:38:19: Done: 318 http://uol-d.openx.net/w/1.0/,ah=j.get( Failed
+22:38:19: : Fail http://uol-d.openx.net/w/1.0/,ah=j.get(
+22:38:19: 404: Object Not Found
+22:38:19: LastError: 0 No Error
+22:38:19: Downloading: 326 http://civilization.itgo.com/fs_img/cgi/frontpage.gif
+22:38:19: Count: 348  ToDo: 21
+22:38:19: Done: 319 http://uol-d.openx.net/w/1.0/+ab.rand();af=ab.template(Q,{divID:ak})+af;ah+=ab.template(w);j.set( Failed
+22:38:19: : Fail http://uol-d.openx.net/w/1.0/+ab.rand();af=ab.template(Q,{divID:ak})+af;ah+=ab.template(w);j.set(
+22:38:19: 404: Object Not Found
+22:38:19: LastError: 0 No Error
+22:38:19: Done: 320 http://uol-d.openx.net/w/1.0/,af);j.set( Failed
+22:38:19: : Fail http://uol-d.openx.net/w/1.0/,af);j.set(
+22:38:19: 404: Object Not Found
+22:38:19: LastError: 0 No Error
+22:38:19: Done: 321 http://uol-d.openx.net/w/1.0/}}catch(ai){}}if(m){return}j.set( Failed
+22:38:19: : Fail http://uol-d.openx.net/w/1.0/}}catch(ai){}}if(m){return}j.set(
+22:38:19: 404: Object Not Found
+22:38:19: LastError: 0 No Error
+22:38:19: Downloading: 327 http://civilization.itgo.com/cgi-bin/util/frontpage
+22:38:19: Count: 348  ToDo: 18
+22:38:19: Downloading: 328 http://www.communityarchitect.com/fs_img/footer/spacer.gif
+22:38:19: Count: 348  ToDo: 18
+22:38:19: Downloading: 329 http://civilization.itgo.com/fs_img/white_TR.gif
+22:38:19: Count: 348  ToDo: 18
+22:38:21: Done: 326 http://civilization.itgo.com/fs_img/cgi/frontpage.gif Success
+22:38:21: Downloading: 330 http://civilization.itgo.com/fs_img/white_TL.gif
+22:38:21: Count: 348  ToDo: 17
+22:38:21: Done: 329 http://civilization.itgo.com/fs_img/white_TR.gif Success
+22:38:21: Downloading: 348 http://civilization.itgo.com/cgi-bin/login?remaining_mins=0&redirect=/cgi-bin/util/frontpage&user=
+22:38:21: Count: 349  ToDo: 17
+22:38:21: Done: 328 http://www.communityarchitect.com/fs_img/footer/spacer.gif Success
+22:38:21: Downloading: 331 http://civilization.itgo.com/cgi-bin/image/images/tab_selected.gif
+22:38:21: Count: 349  ToDo: 16
+22:38:21: Done: 330 http://civilization.itgo.com/fs_img/white_TL.gif Success
+22:38:21: Downloading: 332 http://civilization.itgo.com/cgi-bin/image/images/tab_unselected.gif
+22:38:21: Count: 349  ToDo: 15
+22:38:21: Done: 323 http://civilization.itgo.com/fs_img/js/0.25 Failed
+22:38:21: : Fail http://civilization.itgo.com/fs_img/js/0.25
+22:38:21: 404: Not Found
+22:38:21: LastError: 0 No Error
+22:38:21: Downloading: 333 http://civilization.itgo.com/fs_img/js/unitedonline.cleanprint.net
+22:38:21: Count: 349  ToDo: 14
+22:38:21: Done: 331 http://civilization.itgo.com/cgi-bin/image/images/tab_selected.gif Success
+22:38:21: Downloading: 334 http://civilization.itgo.com/fs_img/js/secure-unitedonline.cleanprint.net
+22:38:21: Count: 349  ToDo: 13
+22:38:22: Done: 327 http://civilization.itgo.com/cgi-bin/util/frontpage LocationChange
+22:38:22: *****: HTTP status is unknown (DoneDownload)
+22:38:22: LastError: 3
+22:38:22: Downloading: 335 http://civilization.itgo.com/fs_img/js/[^.]+.[^.]+$
+22:38:22: Count: 349  ToDo: 12
+22:38:22: Done: 332 http://civilization.itgo.com/cgi-bin/image/images/tab_unselected.gif Success
+22:38:22: Downloading: 336 http://civilization.itgo.com/fs_img/js/formatdynamics.com,cleanprint.net
+22:38:22: Count: 349  ToDo: 11
+22:38:22: Done: 333 http://civilization.itgo.com/fs_img/js/unitedonline.cleanprint.net Failed
+22:38:22: : Fail http://civilization.itgo.com/fs_img/js/unitedonline.cleanprint.net
+22:38:22: 404: Not Found
+22:38:22: LastError: 0 No Error
+22:38:22: Downloading: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:38:22: Count: 349  ToDo: 10
+22:38:22: Done: 348 http://civilization.itgo.com/cgi-bin/login?remaining_mins=0&redirect=/cgi-bin/util/frontpage&user= Success
+22:38:22: Downloading: 158 http://chat1.bravenet.com/vcclient
+22:38:22: Count: 349  ToDo: 9
+22:38:22: Done: 334 http://civilization.itgo.com/fs_img/js/secure-unitedonline.cleanprint.net Failed
+22:38:22: : Fail http://civilization.itgo.com/fs_img/js/secure-unitedonline.cleanprint.net
+22:38:22: 404: Not Found
+22:38:22: LastError: 0 No Error
+22:38:22: Downloading: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:22: Count: 349  ToDo: 8
+22:38:22: Done: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:22: Count: 349  ToDo: 8
+22:38:22: Done: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:22: Count: 349  ToDo: 8
+22:38:22: Done: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:22: Count: 349  ToDo: 8
+22:38:22: Done: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:22: Count: 349  ToDo: 8
+22:38:22: Done: 302 http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/;ah.bs=ag}return%20ab.template(ae,ah)}function%20W(ad){r(ad)}function%20r(ae){var%20ag=u.fallback,af,ad,ah=function(){ae.onAdRenderFinish(j,Y,0);ae.onAdUnitRenderFinish()};if(Y&&Y.html&&(j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:22: Count: 349  ToDo: 7
+22:38:22: Done: 309 http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/),ae.onAdRenderStart,ah,ae.shareFrameContents)}else{ae.onAdRenderStart();v(ag);ah()}}}function%20U(ad){I=ab.now();M=ad;M.onAdUnitRenderStart();e(0)}function%20n(ae){var%20ad,af;if(Y&&Y.html){ad=ab.template(A,{medium:ab.getMedium(),rtype:E.RR,txn_state:Y.ts});af=J(B,{src:ad});if(!j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:22: Count: 349  ToDo: 6
+22:38:22: Done: 314 http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,function(an){if(an.source===am.contentWindow&&an.data===ad){ai()}})}function%20ae(){if(u.chain&&u.chain.length>T+1){e(T+1)}else{f(ad,ak,af,aj,ag,al,ai)}}}function%20f(ak,ae,ai,ah,ad,af,aj){var%20ag;if(ab.isFriendlyFramed()&&j.get(
+22:38:22: LastError: 0
+22:38:22: Downloading: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:22: Count: 349  ToDo: 5
+22:38:22: Done: 315 http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get( CreateError
+22:38:22: : Create Error (No Error): http://uol-d.openx.net/w/1.0/,ah);OX.utils.loadPixels(ak)}},c.ON_ADUNIT_RENDER_FINISH);t=new%20N(U)}else{Y=u.chain&&u.chain[0];t=new%20N(n)}}else{t=new%20N(W)}}else{Y=u.chain&&u.chain[0];t=new%20N(r)}R=1;m=0;af.oninit&&af.oninit(j)};j.render=function(ae){var%20aj,ak,ad=j.get(
+22:38:22: LastError: 0
+22:38:22: Done: 335 http://civilization.itgo.com/fs_img/js/[^.]+.[^.]+$ Failed
+22:38:22: : Fail http://civilization.itgo.com/fs_img/js/[^.]+.[^.]+$
+22:38:22: 404: Not Found
+22:38:22: LastError: 0 No Error
+22:38:22: Done: 336 http://civilization.itgo.com/fs_img/js/formatdynamics.com,cleanprint.net Failed
+22:38:22: : Fail http://civilization.itgo.com/fs_img/js/formatdynamics.com,cleanprint.net
+22:38:22: 404: Not Found
+22:38:22: LastError: 0 No Error
+22:38:43: Done: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class ConnectError
+22:38:43: : Connect Error (Connection timed out): http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:38:43: LastError: 10060
+22:38:43: Downloading: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:38:43: Count: 349  ToDo: 2
+22:38:43: Done: 158 http://chat1.bravenet.com/vcclient ConnectError
+22:38:43: : Connect Error (Connection timed out): http://chat1.bravenet.com/vcclient
+22:38:43: LastError: 10060
+22:38:43: Downloading: 158 http://chat1.bravenet.com/vcclient
+22:38:43: Count: 349  ToDo: 2
+22:39:04: Done: 151 http://chat1.bravenet.com/COM.volano.VolanoChat.class ConnectError
+22:39:04: : Connect Error (Connection timed out): http://chat1.bravenet.com/COM.volano.VolanoChat.class
+22:39:04: LastError: 10060
+22:39:04: Count: 349
+22:39:04: HTML: 152
+22:39:04: Count: 349
+22:39:04: HTML: 153
+22:39:04: Count: 349
+22:39:04: HTML: 154
+22:39:04: Count: 349
+22:39:04: HTML: 155
+22:39:04: Count: 349
+22:39:04: HTML: 156
+22:39:04: Count: 349
+22:39:04: HTML: 157
+22:39:04: Count: 349
+22:39:04: HTML: 158
+22:39:04: Done: 158 http://chat1.bravenet.com/vcclient ConnectError
+22:39:04: : Connect Error (Connection timed out): http://chat1.bravenet.com/vcclient
+22:39:04: LastError: 10060
+22:39:04: Count: 349
+22:39:04: HTML: 159
+22:39:04: Count: 349
+22:39:04: HTML: 160
+22:39:04: Count: 349
+22:39:04: HTML: 161
+22:39:04: Count: 349
+22:39:04: HTML: 162
+22:39:04: Count: 349
+22:39:04: HTML: 163
+22:39:04: Count: 349
+22:39:04: HTML: 164
+22:39:04: Count: 349
+22:39:04: HTML: 165
+22:39:04: Count: 349
+22:39:04: HTML: 166
+22:39:04: Count: 349
+22:39:04: HTML: 167
+22:39:04: Count: 349
+22:39:04: HTML: 168
+22:39:04: Count: 349
+22:39:04: HTML: 169
+22:39:04: Count: 349
+22:39:04: HTML: 170
+22:39:04: Count: 349
+22:39:04: HTML: 171
+22:39:04: Count: 349
+22:39:04: HTML: 172
+22:39:04: Count: 349
+22:39:04: HTML: 173
+22:39:04: Count: 349
+22:39:04: HTML: 174
+22:39:04: Count: 349
+22:39:04: HTML: 175
+22:39:04: Count: 349
+22:39:04: HTML: 176
+22:39:04: Count: 349
+22:39:04: HTML: 177
+22:39:04: Count: 349
+22:39:04: HTML: 178
+22:39:04: Count: 349
+22:39:04: HTML: 179
+22:39:04: Count: 349
+22:39:04: HTML: 180
+22:39:04: Count: 349
+22:39:04: HTML: 181
+22:39:04: Count: 349
+22:39:04: HTML: 182
+22:39:04: Count: 349
+22:39:04: HTML: 183
+22:39:04: Count: 349
+22:39:04: HTML: 184
+22:39:04: Count: 349
+22:39:04: HTML: 185
+22:39:04: Count: 349
+22:39:04: HTML: 186
+22:39:04: Count: 349
+22:39:04: HTML: 187
+22:39:04: Count: 349
+22:39:04: HTML: 188
+22:39:04: Count: 349
+22:39:04: HTML: 189
+22:39:04: Count: 349
+22:39:04: HTML: 190
+22:39:04: Count: 349
+22:39:04: HTML: 191
+22:39:04: Count: 349
+22:39:04: HTML: 192
+22:39:04: Count: 349
+22:39:04: HTML: 193
+22:39:04: Count: 349
+22:39:04: HTML: 194
+22:39:04: Count: 349
+22:39:04: HTML: 195
+22:39:04: Count: 349
+22:39:04: HTML: 196
+22:39:04: Count: 349
+22:39:04: HTML: 197
+22:39:04: Count: 349
+22:39:04: HTML: 198
+22:39:04: Count: 349
+22:39:04: HTML: 199
+22:39:04: Count: 349
+22:39:04: HTML: 200
+22:39:04: Count: 349
+22:39:04: HTML: 201
+22:39:04: Count: 349
+22:39:04: HTML: 202
+22:39:04: Count: 349
+22:39:04: HTML: 203
+22:39:04: Count: 349
+22:39:04: HTML: 204
+22:39:04: Count: 349
+22:39:04: HTML: 205
+22:39:04: Count: 349
+22:39:04: HTML: 206
+22:39:04: Count: 349
+22:39:04: HTML: 207
+22:39:04: Count: 349
+22:39:04: HTML: 208
+22:39:04: Count: 349
+22:39:04: HTML: 209
+22:39:04: Count: 349
+22:39:04: HTML: 210
+22:39:04: Count: 349
+22:39:04: HTML: 211
+22:39:04: Count: 349
+22:39:04: HTML: 212
+22:39:04: Count: 349
+22:39:04: HTML: 213
+22:39:04: Count: 349
+22:39:04: HTML: 214
+22:39:04: Count: 349
+22:39:04: HTML: 215
+22:39:04: Count: 349
+22:39:04: HTML: 216
+22:39:04: Count: 349
+22:39:04: HTML: 217
+22:39:04: Count: 349
+22:39:04: HTML: 218
+22:39:04: Count: 349
+22:39:04: HTML: 219
+22:39:04: Count: 349
+22:39:04: HTML: 220
+22:39:04: Count: 349
+22:39:04: HTML: 221
+22:39:04: Count: 349
+22:39:04: HTML: 222
+22:39:04: Count: 349
+22:39:04: HTML: 223
+22:39:04: Count: 349
+22:39:04: HTML: 224
+22:39:04: Count: 349
+22:39:04: HTML: 225
+22:39:04: Count: 349
+22:39:04: HTML: 226
+22:39:04: Count: 349
+22:39:04: HTML: 227
+22:39:04: Count: 349
+22:39:04: HTML: 228
+22:39:04: Count: 349
+22:39:04: HTML: 229
+22:39:04: Count: 349
+22:39:04: HTML: 230
+22:39:04: Count: 349
+22:39:04: HTML: 231
+22:39:04: Count: 349
+22:39:04: HTML: 232
+22:39:04: Count: 349
+22:39:04: HTML: 233
+22:39:04: Count: 349
+22:39:04: HTML: 234
+22:39:04: Count: 349
+22:39:04: HTML: 235
+22:39:04: Count: 349
+22:39:04: HTML: 236
+22:39:04: Count: 349
+22:39:04: HTML: 237
+22:39:04: Count: 349
+22:39:04: HTML: 238
+22:39:04: Count: 349
+22:39:04: HTML: 239
+22:39:04: Count: 349
+22:39:04: HTML: 240
+22:39:04: Count: 349
+22:39:04: HTML: 241
+22:39:04: Count: 349
+22:39:04: HTML: 242
+22:39:04: Count: 349
+22:39:04: HTML: 243
+22:39:04: Count: 349
+22:39:04: HTML: 244
+22:39:04: Count: 349
+22:39:04: HTML: 245
+22:39:04: Count: 349
+22:39:04: HTML: 246
+22:39:04: Count: 349
+22:39:04: HTML: 247
+22:39:04: Count: 349
+22:39:04: HTML: 248
+22:39:04: Count: 349
+22:39:04: HTML: 249
+22:39:04: Count: 349
+22:39:04: HTML: 250
+22:39:04: Count: 349
+22:39:04: HTML: 251
+22:39:04: Count: 349
+22:39:04: HTML: 252
+22:39:04: Count: 349
+22:39:04: HTML: 253
+22:39:04: Count: 349
+22:39:04: HTML: 254
+22:39:04: Count: 349
+22:39:04: HTML: 255
+22:39:04: Count: 349
+22:39:04: HTML: 256
+22:39:04: Count: 349
+22:39:04: HTML: 257
+22:39:04: Count: 349
+22:39:04: HTML: 258
+22:39:04: Count: 349
+22:39:04: HTML: 259
+22:39:04: Count: 349
+22:39:04: HTML: 260
+22:39:04: Count: 349
+22:39:04: HTML: 261
+22:39:04: Count: 349
+22:39:04: HTML: 262
+22:39:04: Count: 349
+22:39:04: HTML: 263
+22:39:04: Count: 349
+22:39:04: HTML: 264
+22:39:04: Count: 349
+22:39:04: HTML: 265
+22:39:04: Count: 349
+22:39:04: HTML: 266
+22:39:04: Count: 349
+22:39:04: HTML: 267
+22:39:04: Count: 349
+22:39:04: HTML: 268
+22:39:04: Count: 349
+22:39:04: HTML: 269
+22:39:04: Count: 349
+22:39:04: HTML: 270
+22:39:04: Count: 349
+22:39:04: HTML: 271
+22:39:04: Count: 349
+22:39:04: HTML: 272
+22:39:04: Count: 349
+22:39:04: HTML: 273
+22:39:04: Count: 349
+22:39:04: HTML: 274
+22:39:04: Count: 349
+22:39:04: HTML: 275
+22:39:04: Count: 349
+22:39:04: HTML: 276
+22:39:04: Count: 349
+22:39:04: HTML: 277
+22:39:04: Count: 349
+22:39:04: HTML: 278
+22:39:04: Count: 349
+22:39:04: HTML: 279
+22:39:04: Count: 349
+22:39:04: HTML: 280
+22:39:04: Count: 349
+22:39:04: HTML: 281
+22:39:04: Count: 349
+22:39:04: HTML: 282
+22:39:04: Count: 349
+22:39:04: HTML: 283
+22:39:04: Count: 349
+22:39:04: HTML: 284
+22:39:04: Count: 349
+22:39:04: HTML: 285
+22:39:04: Count: 349
+22:39:04: HTML: 286
+22:39:04: Count: 349
+22:39:04: HTML: 287
+22:39:04: Count: 349
+22:39:04: HTML: 288
+22:39:04: Count: 349
+22:39:04: HTML: 289
+22:39:04: Count: 349
+22:39:04: HTML: 290
+22:39:04: Count: 349
+22:39:04: HTML: 291
+22:39:04: Count: 349
+22:39:04: HTML: 292
+22:39:04: Count: 349
+22:39:04: HTML: 293
+22:39:04: Count: 349
+22:39:04: HTML: 294
+22:39:04: Count: 349
+22:39:04: HTML: 295
+22:39:04: Count: 349
+22:39:04: HTML: 296
+22:39:04: Count: 349
+22:39:04: HTML: 297
+22:39:04: Count: 349
+22:39:04: HTML: 298
+22:39:04: Count: 349
+22:39:04: HTML: 299
+22:39:04: Count: 349
+22:39:04: HTML: 300
+22:39:04: Count: 349
+22:39:04: HTML: 301
+22:39:04: Count: 349
+22:39:04: HTML: 302
+22:39:04: Count: 349
+22:39:04: HTML: 303
+22:39:04: Count: 349
+22:39:04: HTML: 304
+22:39:04: Count: 349
+22:39:04: HTML: 305
+22:39:04: Count: 349
+22:39:04: HTML: 306
+22:39:04: Count: 349
+22:39:04: HTML: 307
+22:39:04: Count: 349
+22:39:04: HTML: 308
+22:39:04: Count: 349
+22:39:04: HTML: 309
+22:39:04: Count: 349
+22:39:04: HTML: 310
+22:39:04: Count: 349
+22:39:04: HTML: 311
+22:39:04: Count: 349
+22:39:04: HTML: 312
+22:39:04: Count: 349
+22:39:04: HTML: 313
+22:39:04: Count: 349
+22:39:04: HTML: 314
+22:39:04: Count: 349
+22:39:04: HTML: 315
+22:39:04: Count: 349
+22:39:04: HTML: 316
+22:39:04: Count: 349
+22:39:04: HTML: 317
+22:39:04: Count: 349
+22:39:04: HTML: 318
+22:39:04: Count: 349
+22:39:04: HTML: 319
+22:39:04: Count: 349
+22:39:04: HTML: 320
+22:39:04: Count: 349
+22:39:04: HTML: 321
+22:39:04: Count: 349
+22:39:04: HTML: 322
+22:39:04: Count: 349
+22:39:04: HTML: 323
+22:39:04: Count: 349
+22:39:04: HTML: 324
+22:39:04: Count: 349
+22:39:04: HTML: 325
+22:39:04: Count: 349
+22:39:04: HTML: 326
+22:39:04: Count: 349
+22:39:04: HTML: 327
+22:39:04: Count: 349
+22:39:04: HTML: 328
+22:39:04: Count: 349
+22:39:04: HTML: 329
+22:39:04: Count: 349
+22:39:04: HTML: 330
+22:39:04: Count: 349
+22:39:04: HTML: 331
+22:39:04: Count: 349
+22:39:04: HTML: 332
+22:39:04: Count: 349
+22:39:04: HTML: 333
+22:39:04: Count: 349
+22:39:04: HTML: 334
+22:39:04: Count: 349
+22:39:04: HTML: 335
+22:39:04: Count: 349
+22:39:04: HTML: 336
+22:39:04: Count: 349
+22:39:04: HTML: 337
+22:39:04: Count: 349
+22:39:04: HTML: 338
+22:39:04: Count: 349
+22:39:04: HTML: 339
+22:39:04: Count: 349
+22:39:04: HTML: 340
+22:39:04: Count: 349
+22:39:04: HTML: 341
+22:39:04: Count: 349
+22:39:04: HTML: 342
+22:39:04: Count: 349
+22:39:04: HTML: 343
+22:39:04: Count: 349
+22:39:04: HTML: 344
+22:39:04: Count: 349
+22:39:04: HTML: 345
+22:39:04: Count: 349
+22:39:04: HTML: 346
+22:39:04: Count: 349
+22:39:04: HTML: 347
+22:39:04: Count: 349
+22:39:04: HTML: 348
+22:39:04: Count: 349
+22:39:04: HTML: 349
+22:39:04: EndStatus = CompleteWorking
+22:39:04: AfterDownload - renaming files 11/11/2017 22:39:04
+22:39:04: AfterDownload - Replacing links 11/11/2017 22:39:04
+22:39:05: EndStatus error from Parser
+22:39:05: AfterDownload - Creating reports 11/11/2017 22:39:05
+22:39:05: ParseDone - Completed 11/11/2017 22:39:05
+22:39:05: Write file list: c:\users\hjf84_000\documents\webstripper\civilization.itgo\WebStripper\FileList.cfg
+22:39:05: Write link list: c:\users\hjf84_000\documents\webstripper\civilization.itgo\WebStripper\LinkList.dat
